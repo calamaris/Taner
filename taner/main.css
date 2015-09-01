@@ -1,0 +1,942 @@
+@font-face {
+  font-family: 'icomoon';
+  src:url('fonts/icomoon.eot?qmf9t7');
+  src:url('fonts/icomoon.eot?#iefixqmf9t7') format('embedded-opentype'),
+    url('fonts/icomoon.woff?qmf9t7') format('woff'),
+    url('fonts/icomoon.ttf?qmf9t7') format('truetype'),
+    url('fonts/icomoon.svg?qmf9t7#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+* { 
+	margin: 0px;
+  padding: 0px;
+  border: 
+}
+body {
+     font-size: 16px;
+     width: 100%;
+     margin: 0px;
+     background-position: 0 100%; 
+     min-height: 100%;
+     background: url("img/BG02.jpg") no-repeat;
+     background-position: center top;
+      }
+#preload{
+  background: url(img/divM.png) no-repeat, url(img/sombrab.png) no-repeat, url(img/sombraA.png) no-repeat top left, url(img/sombrab.png) no-repeat top right, url(img/sombrac.png) top center, url(img/sombra.png) top left;
+}
+.contenedor{ 
+	max-width: 1200px;
+  min-width: 950px;
+  background-color: white;
+  margin: 0 auto; 
+  position: relative;
+  height: auto;
+}
+header{
+  background-color: white;
+  display: inline-block;
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+  padding: 0px 0px;
+  margin: 0px 0px;
+  -webkit-box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+  -moz-box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+  box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+}
+#logoi{
+ margin: auto;
+ padding: 10px 10px 10px 4%;
+ display: inline-block;
+ height: 70px;
+ float: left;
+ text-decoration: none;
+}
+header p{
+  margin: 10px 25px 10px 0px;
+  padding: 0px;
+  font-size: 1.2em;
+  font-family: Arial;
+  font-weight: bolder;
+  color: #5D0C8B;
+}
+#phone{
+  display: inline-block;
+  float: right;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+}
+#mail { 
+  display: inline-block;
+  float: right;
+   font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+}
+header p a{
+  color: #5D0C8B;
+  text-decoration: none;
+}
+#phone a:before {
+  content: "\e601 ";
+  font-size: 1em;
+  font-family: 'icomoon';
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  text-align: center;
+}
+#mail a:before {
+  content: "\e602 ";
+  font-size: 1em;
+  font-family: 'icomoon';
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  text-align: center;
+}
+
+/* ---------   MENU HEADER   --------- */
+
+#menuprincipal {
+  position: relative;
+  width: 50%;
+  height: 58px;
+  clear: right;
+  float: right;
+  display: inline-block;
+  margin: 0px 0px 0px 0px; 
+  padding: 0px 0px 0px 40px; 
+  text-align: right;
+  background-color: #5D0C8B;
+  overflow: hidden;  
+}
+
+#menuprincipal:before{  /* borde diagonal menu*/
+  content: "";
+  position: absolute;
+  border-right: 28px solid #5D0C8B;
+  border-top:28px solid white;
+  border-bottom:28px solid #5D0C8B;
+  border-left: 28px solid white;
+  left: 0px;
+  top: 0px;
+}
+
+#menuprincipal ul{
+  list-style: none;
+  padding: 0px;
+  height: auto;
+  overflow: hidden;
+  margin: 0px;
+  text-align: center;
+}
+#menuprincipal ul li {
+  display: inline-block;
+  padding: 0px;
+  color: white;
+  font-size: 1.5em;
+  font-weight: 800;
+  font-family: 'Merriweather Sans', sans-serif;
+  max-width: 700px;
+  margin: 0 1%;
+  }
+#menuprincipal li a{
+  color: rgba(255,255,255,0.9);
+  padding: 15px 15px 12px 15px;
+  text-decoration: none;
+  display: inline-block;
+  background:  url(img/divM.png) no-repeat top left, url(img/sombrab.png) no-repeat top right;
+  transition:all 0.15s;
+  -webkit-transition:all 0.15s;
+  -moz-transition:all 0.15s;
+  -o-transition:all 0.15s;
+}
+
+#menuprincipal li a:hover {
+  color: i;
+  padding: 15px 90px 13px 20px;
+  background: url(img/sombraA.png) no-repeat top left, url(img/sombrab.png) no-repeat top right, url(img/sombrac.png) top center, url(img/sombra.png) top left;
+  background-size: 123px 100%;
+  text-shadow: 0px 0px 10px rgba(5,5,5,0.8);
+}
+
+  /*   ---------   MENU LINEAS  ---------   */
+
+#plecaH {
+  height: 35px;
+  width: 100%;
+  background: url(img/plecaH.jpg)top center;
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  margin: 0 auto;
+}
+#menusecundario{
+  height: 35px; 
+  position: relative;
+  overflow: hidden;
+  
+  width: 100%; 
+  /*background-color: #4b4b4b;*/
+  margin: -4px 0 0px 0;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  border: transparent;
+}
+
+#menusecundario ul{
+  list-style: none; /* Elimino los estilos de lista */
+  padding: 0px; 
+  margin: 0px 0px 0px 3%;
+}
+
+#menusecundario li{            
+  width: 18.5%;
+  padding: 0px 3px;
+  display:inline-block;
+  margin: 0px auto;
+  text-align: center;
+  list-style: none;
+}
+
+#menusecundario li a{
+  color: rgba(255,255,255, 0.7);
+  padding: 8px 22% 7px 22%;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;  
+  transition:all 0.2s;
+  margin: 0px 0px;
+}
+
+#menusecundario li a:hover  {
+  color: rgba(255,255,255, 1);
+  background: url(img/sombraSub.png)no-repeat top center;
+  /*border-top: 4px solid rgba(0,0,0, 0.2);
+  
+  padding: 4px 21% 7px 21%;*/
+}
+
+/*   -----  INDEX   -------   */
+
+.seccion-a {
+  width: 100%;
+  padding: 0 0; 
+  margin: 0px auto 35px auto;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.titulo-a {
+  text-align: center;
+  margin: 30px auto 30px auto;
+  padding: 0px;
+  font-size: 4em;
+  color: #3A3A3A;
+  font-weight: 300;
+  
+}
+
+.cuadros {
+  display: inline-block;
+  width: 32.333%;
+  overflow: hidden;
+  height: auto; 
+  background-color: rgba(255,255,255, 0.3);
+  padding: 0px; 
+  margin: 0px 0px 0px 0.5%;
+}
+.cuadros div{
+  
+  width: auto;
+  margin: 0;
+}
+.cuadros div figure{
+  width: 100px;
+  margin: 10px auto 10px auto;
+}
+.iconoa { /*img*/
+  border-radius: 50%;
+  margin: 0px;
+  padding: 0px;
+  display: inline-block;
+ }
+div figcaption {
+  text-align: center;
+  color: #3A3A3A;
+  text-decoration: none;
+  margin: 0px;
+
+
+}
+div figcaption h2 {
+  margin: 0px;
+  font-weight: 800;
+}
+
+/* -----   LINEAS   ----- */
+
+.seccion-b {
+  width: 100%;
+  padding: 0px 0px; 
+  margin: 0px auto 0px auto;
+  background-color: white;
+  height: auto;
+  box-shadow: 1px 1px 2px black;
+  overflow: hidden;
+
+}
+.encabezado {
+  margin: 0px 0px 10px 0px ;
+  padding: 18px 15px;
+  color: white;
+  font-size: 16px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 300;
+  background: url(img/sublinea.jpg)no-repeat center top;
+  /*background-color: rgba(0,0,0,0.7);*/
+}
+.encabezado h3{
+  text-align: center;
+}
+.nav-pl1 {
+  font-size: 15px;
+  font-weight: 300;
+  color: white;
+  opacity: 0.7; 
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 2px;
+  font-style: italic;
+
+}
+.navActive {
+  font-weight: 800;
+  opacity: 1;
+}
+.titulo-b { /*titulo de seccion*/
+  text-align: left;
+  margin: 0px auto 10px 0px;
+  padding: 0px;
+  font-size: 3em;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 2px 5px rgba(0,0,0,0.7);
+}
+
+.item-gde  { 
+  
+  width: 47%;
+  height: 250px;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 0px  0px 10px 1.7%;
+  text-decoration: none;
+  overflow: hidden;
+}
+
+.item-gde figure {
+  height: 250px;
+  border-radius: 3px;
+  transition: 0.2s ease-in-out;
+}
+.item-gde figcaption {
+  color: #5D0C8B;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 800;
+  text-align: left;
+  margin: 8px;
+  font-size: 1.7em;
+  padding: 0;
+
+}
+
+/*  -------   BOTONES LINEAS  -------  */
+
+
+#tAlmacenamiento {
+  background: url(img/titulos/tAlmacenamiento.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tAlmacenamiento:hover {
+   background: url(img/titulos/tAlmacenamiento.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tAccesorios {
+  background: url(img/titulos/tAccesorios.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tAccesorios:hover {
+   background: url(img/titulos/tAccesorios.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tPlastico {
+  background: url(img/titulos/tPlastico.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tPlastico:hover {
+   background: url(img/titulos/tPlastico.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tOficina {
+  background: url(img/titulos/tOficina.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tOficina:hover {
+   background: url(img/titulos/tOficina.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tVitrinas {
+  background: url(img/titulos/tVitrinas.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tVitrinas:hover {
+   background: url(img/titulos/tVitrinas.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+
+
+/*  -------   BOTONES SUBLINEAS  -------  */
+
+
+/* Almacenamiento  ------------*/
+
+#testanteriaM {
+  background: url(img/titulos/tEstanteriaM.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#testanteriaM:hover {
+   background: url(img/titulos/tEstanteriaM.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+
+#tRacks {
+  background: url(img/titulos/tRacks.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+#tRacks:hover {
+  background: url(img/titulos/tRacks.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+
+#tgaveterosM {
+  background: url(img/titulos/tgaveterosM.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tgaveterosM:hover {
+  background: url(img/titulos/tgaveterosM.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+
+#tgaveterosP {
+  background: url(img/titulos/tGaveterosP.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tgaveterosP:hover {
+  background: url(img/titulos/tGaveterosP.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+
+
+/*  Accesorios  -----------------*/
+
+
+#tanaqueles {
+  background: url(img/titulos/tAccesorios.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tanaqueles:hover {
+  background: url(img/titulos/tAccesorios.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tbotiquines {
+  background: url(img/titulos/tBotiquines.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tbotiquines:hover {
+  background: url(img/titulos/tBotiquines.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tcajasD {
+  background: url(img/titulos/tcajaDinero.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tcajasD:hover {
+  background: url(img/titulos/tcajaDinero.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tportallaves {
+  background: url(img/titulos/tPortallaves.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tportallaves:hover {
+  background: url(img/titulos/tPortallaves.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tRacksR {
+  background: url(img/titulos/tracksR.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tRacksR:hover {
+  background: url(img/titulos/tracksR.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tPortagarrafones {
+  background: url(img/titulos/tportaG.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tPortagarrafones:hover {
+  background: url(img/titulos/tportaG.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tExhibidores {
+  background: url(img/titulos/tExhibidores.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tExhibidores:hover {
+  background: url(img/titulos/tExhibidores.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+
+
+/*  Plástico  -----------------*/
+
+#tContenedores {
+  background: url(img/titulos/tContenedores.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tContenedores:hover {
+  background: url(img/titulos/tContenedores.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+#tGavetasP {
+  background: url(img/titulos/tGavetasP.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tGavetasP:hover {
+  background: url(img/titulos/tGavetasP.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#tTarimas {
+  background: url(img/titulos/tTarimasP.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tTarimas:hover {
+  background: url(img/titulos/tTarimasP.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+
+#tMuebles {
+  background: url(img/titulos/tMuebles.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tMuebles:hover {
+  background: url(img/titulos/tMuebles.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#tInfantil {
+  background: url(img/titulos/tInfantil.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tInfantil:hover {
+  background: url(img/titulos/tInfantil.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#tBotesB {
+  background: url(img/titulos/tBotesB.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tBotesB:hover {
+  background: url(img/titulos/tBotesB.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#tOrganizadores {
+  background: url(img/titulos/tOrganizadores.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tOrganizadores:hover {
+  background: url(img/titulos/tOrganizadores.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#tHogar {
+  background: url(img/titulos/tHogar.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tHogar:hover {
+  background: url(img/titulos/tHogar.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+
+
+/*  Oficína  -----------------*/
+
+
+#tEscritorios {
+  background: url(img/titulos/tTaner.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tEscritorios:hover {
+  background: url(img/titulos/tTaner.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#tArchiveros {
+  background: url(img/titulos/tOficina.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tArchiveros:hover {
+  background: url(img/titulos/tOficina.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#tMueblesU {
+  background: url(img/titulos/tMuniversales.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tMueblesU:hover {
+  background: url(img/titulos/tMuniversales.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#tLockers {
+  background: url(img/titulos/tLockers.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tLockers:hover {
+  background: url(img/titulos/tLockers.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#tSillas {
+  background: url(img/titulos/tSillas.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tSillas:hover {
+  background: url(img/titulos/tSillas.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+
+/*   ----- PRODUCTOS  ------   */
+
+.seccionC {
+  background: white; 
+  padding: 0 22px;
+}
+.wrappPr {
+  margin: 10px 10px 10px 10px;
+  width: 360px;
+  height: auto;
+  background: white;
+  float: left;
+  box-shadow: 2px 0px 6px rgba(0,0,0,0.5);
+  position: relative;
+  min-height: 397px;
+}
+.tituloPr {
+  text-align: center;
+  width: 360px;
+  height: 40px;
+  background: url(img/tituloPr.jpg) no-repeat center top;
+ }
+.tituloPr h4 {
+  padding-top: 12px; 
+  font-size: 16px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 800;
+}
+.wLb {
+  width: 100%;
+  height: 299px;
+  margin: 0 auto;
+}
+.wLb a {
+}
+.subPr {
+  background: url(img/subPr.jpg) no-repeat top center;
+  padding: 15px 7px 6px 7px;
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  color: gray;
+}
+.subPr p{
+  margin-bottom: 7px;
+}
+
+
+/* ---------- FOOTER -----------  */
+
+footer {
+  display: block;
+  background-color: rgba(0,0,0,0.9);
+  text-align: center;
+  color: rgba(255,255,255,0.8);
+  padding: 10px 0px 10px 0px;
+  margin: 0px;
+  width: 100%;
+
+}
+
+footer p{
+  font-size: 12px;
+  margin-bottom: 3px;
+  font-weight: 100;
+  font-family: 'Merriweather Sans', sans-serif;
+  vertical-align: center;
+}
+#politica{
+  color: rgba(255,255,255,0.7);
+}
+#pyg{
+  text-decoration: none;
+  font-style: italic; 
+  color: #0489e7;
+}
+#pyg:hover{
+  text-decoration: underline;
+  color: white;
+  text-shadow: 0px 0px 8px white;
+
+}
+#tanerfooter{
+  font-weight: 800;
+  font-size: 16px;
+}
+#logoFooter {
+  margin-top: 15px;
+}
+
+/* -----------   CONTACTO   -----------  */ 
+
+#direccion {
+  float: right;
+  width: 300px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 800;
+  color: #3A3A3A;
+  font-size: 14px;
+  padding: 10px 0 0 15px;
+  margin-top: 50px;
+  margin-right: 10%;
+}
+#direccion h1{
+  font-weight: 200;
+  font-size: 30px;
+  margin: 0 0 0 -5px;
+}
+
+#mapa {
+  width: 100%;
+  height: 300px;
+}
+#nosotrosW {
+  width: 400px;
+  height: 295px;
+  margin: 20px 0px 0px 50px;
+  display: inline-block;
+}
+#nosotrosT {
+  background: url(img/nosotrosT.jpg) no-repeat center top;
+  background-size: contain;
+  width: 100%;
+  height: 100px;
+}
+#nosotrosContent {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  color: #5D0C8B;
+  font-size: 18px;
+  text-align: justify;
+  padding: 10px 51px;
+  margin-top: -30px;
+}
+#phoneC, #mailC {
+  margin-top: 5px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+}
+#fbIcon{
+  background: url(img/fbIcon.png) no-repeat center;
+  -webkit-background-size: contain;
+  background-size: contain;
+  float: right;
+  margin-top: 10px;
+  margin-right: 25px;
+  width: 25px;
+  height: 25px;
+}
+
+#direccion p a{
+  text-decoration: none;
+  color: #3A3A3A;
+}
+#phoneC a:before {
+  content: "\e601 ";
+  font-size: 1em;
+  font-family: 'icomoon';
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  text-align: center;
+}
+#mailC a:before {
+  content: "\e602 ";
+  font-size: 1em;
+  font-family: 'icomoon';
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  text-align: center;
+}
+.seccion-d {
+  height: 545px;
+  width: 100%;
+  background: #494949 url(img/triangulo.png) no-repeat top center;
+}
+#formulario {
+  width: 312px;
+  padding: 50px 0px;
+  margin: 0 auto;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 200;
+}
+#contactoT {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 100;
+  font-size: 40px;
+  text-shadow: 1px 1px 7px rgba(0,0,0,0.7);
+  color: white;
+}
+.input {
+  padding: 5px;
+  width: 298px;
+  margin: 0px 0px 10px 0px;
+}
+.textArea {
+  padding: 5px;
+  width: 300px;
+  height: 150px;
+}
+#aviso {
+  margin: 20px 0px 20px 50px;
+}
+#aviso a {
+  color: rgba(255,255,255,0.7);
+  font-size: 14px;
+}
+
+/*-----------PRODUCTOS OPTIMIZADO-----------*/
+
+.thumb{
+  width: 100%;
+  height: 299px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+
+}
+.sombraP{
+  pointer-events: none;
+  width: 360px;
+  height: 87px;
+  background: url(img/sombraP.png)no-repeat top;
+  position: absolute;
+  z-index: 800;
+  top: 0;
+}
+.thumb img{
+  display: block;
+  margin: 0 auto;
+}

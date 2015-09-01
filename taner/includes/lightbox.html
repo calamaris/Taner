@@ -1,0 +1,16 @@
+ 	<link rel="stylesheet" href="nivo-lightbox.css" type="text/css" />
+    <link rel="stylesheet" href="nivo-themes/default/default.css" type="text/css" />
+    <script src="js/nivo-lightbox.min.js"></script>
+    <script>
+        (function ($) {
+          $(document).ready(function(){
+          $('.lb').nivoLightbox({
+          effect: 'fadeScale',                        // The effect to use when showing the lightbox
+          keyboardNav: true,                          // Enable/Disable keyboard navigation (left/right/escape)
+          clickOverlayToClose: true,                  // If false clicking the "close" button will be the only way to close the lightbox
+       
+          errorMessage: 'La imagen no puede mostrarse, favor de intentarlo mas tarde.' 
+             });
+          });
+        }(jQuery));
+    </script>
