@@ -18,46 +18,8 @@
                 <h1 class="titulo-b">Anaqueles</h1>
         </div>
         <article class="seccionC">
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Anaquel de 12 cajas</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>15 fondo x 41.5 largo x 27 alto <br> caja visible de 14.7 fondo x 7.4 largo x 4.7 alto</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Anaquel de 20 cajas</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/a20gr.jpg" title="">
-                  <img src="img/productos/a20c.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>15 fondo x 41.5 largo x 27 alto <br> caja visible de 14.7 fondo x 7.4 largo x 4.7 alto</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Anaquel de 50 cajas</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/ang03.jpg" title="">
-                  <img src="img/productos/anc03.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>15 fondo x 41.5 largo x 66 alto <br> caja visible de 14.7 fondo x 7.4 largo x 4.7 alto</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
+
+        <div class="wrappPr">
             <div class="tituloPr">
               <h4>Anaquel de 9 cajas</h4>
             </div>
@@ -72,33 +34,32 @@
             </div>
           </div> <!-- New // wrappPr  -->
 
-          <!-- <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Anaquel de 30 cajas</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/AnaquelDe9.jpg" title="">
-                  <img src="img/productos/anaquelDe9.jpg" width="300" alt="anaquelDe9" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- wrappPr  --> -->
 
           <div class="wrappPr">
             <div class="tituloPr">
-              <h4>Anaquel de 40 cajas</h4>
+              <h4>Anaquel de 12 cajas</h4>
             </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Anaquel_de_40.jpg" title="">
-                  <img src="img/productos/Anaquel_de_40.jpg" width="300" alt="anaquelDe9" />
-              </a>
-              <div class="sombraP"></div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/eM-p1.jpg" title="">
+                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
+               </a>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>15 fondo x 41.5 largo x 27 alto <br> caja visible de 14.7 fondo x 7.4 largo x 4.7 alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Anaquel de 20 cajas</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/a20gr.jpg" title="">
+                  <img src="img/productos/a20c.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>15 fondo x 41.5 largo x 27 alto <br> caja visible de 14.7 fondo x 7.4 largo x 4.7 alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -117,7 +78,51 @@
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
-         
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Anaquel de 40 cajas</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Anaquel_de_40.jpg" title="">
+                  <img src="img/productos/Anaquel_de_40.jpg" width="300" alt="anaquelDe9" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>-</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Anaquel de 50 cajas</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/ang03.jpg" title="">
+                  <img src="img/productos/anc03.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>15 fondo x 41.5 largo x 66 alto <br> caja visible de 14.7 fondo x 7.4 largo x 4.7 alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+          
+
+          <!-- <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Anaquel de 30 cajas</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/AnaquelDe9.jpg" title="">
+                  <img src="img/productos/anaquelDe9.jpg" width="300" alt="anaquelDe9" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>-</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
 
         </article> 
       </section>

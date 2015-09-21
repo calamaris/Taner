@@ -18,45 +18,68 @@
                 <h1 class="titulo-b">Botes para basura</h1>
         </div> 
         <article class="seccionC">
-           <div class="wrappPr">
+
+        <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Bote 120 Lts</h4>
+              <h4>Bote para Basura N.1 Tapa Lisa</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/bote120g.jpg" title="">
-                  <img src="img/productos/bote120c.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/boteBasuraN1Lisa.jpg" title="">
+                  <img src="img/productos/boteBasuraN1Lisa.jpg" width="300" alt="Bote para Basura N.1 Tapa Lisa" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>56 fondo x 62 largo  x 80 alto capacidad 120 litros</p>
+                <p>53 Ancho x 50 Ancho x 64 Alto</p>
             </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote para Basura N.1 Tapa Balancin</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/boteBasuraN1Balancin.jpg" title="">
+                  <img src="img/productos/boteBasuraN1Balancin.jpg" width="300" alt="Bote para Basura N.1 Tapa Balancin" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>53 Ancho x 50 Ancho x 64 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Bote N. 2 Tapa Balancín</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/boteBasuraN2Balancin.jpg" title="">
+                  <img src="img/productos/boteBasuraN2Balancin.jpg" width="300" alt="Bote para Basura N.1 Tapa Balancin" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
                 <p>50 fondo x 53 largo  x 96 alto capacidad 100 litros</p>
             </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Bote N. 2 Tapa Lisa</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/boteBasuraN2Lisa.jpg" title="">
+                  <img src="img/productos/boteBasuraN2Lisa.jpg" width="300" alt="Bote para Basura N.1 Tapa Lisa" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
                 <p>50 fondo x 53 largo  x 81 alto capacidad 100 litros</p>
             </div>
-          </div> <!-- wrappPr  -->
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+
           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Bote N. 3 Tapa Lisa</h4>
@@ -70,6 +93,97 @@
                 <p>52 fondo x 61 largo  x 90 alto capacidad 125 litros</p>
             </div>
           </div> <!-- wrappPr  -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote Papelero Ovalado</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/BoteOvalado.jpg" title="">
+                  <img src="img/productos/BoteOvalado.jpg" width="300" alt="Bote Papelero Ovalado" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>37 Diametro X 56 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote Media Luna de 3 Lts</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/BoteMediaLuna3lts.jpg" title="">
+                  <img src="img/productos/BoteMediaLuna3lts.jpg" width="300" alt="Bote Media Luna de 3Lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>16 Ancho x 15.5 Largo x 25 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote Media Luna de 6 Lts</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/BoteMediaLuna6lts.jpg" title="">
+                  <img src="img/productos/BoteMediaLuna6lts.jpg" width="300" alt="Bote Media Luna de 6 Lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>19 Ancho x 18 Largo x 33 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote Media Luna de 12.5 Lts</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/BoteMediaLuna12lts.jpg" title="">
+                  <img src="img/productos/BoteMediaLuna12lts.jpg" width="300" alt="Bote Media Luna de 12.5 Lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>25 Ancho x 24 Largo x 44 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote Media Luna de 25 Lts</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/BoteMediaLuna25lts.jpg" title="">
+                  <img src="img/productos/BoteMediaLuna25lts.jpg" width="300" alt="Bote Media Luna de 25 Lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>30 Ancho x 29 Largo x 58 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+           <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Bote 120 Lts</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/bote120g.jpg" title="">
+                  <img src="img/productos/bote120c.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>56 fondo x 62 largo  x 80 alto capacidad 120 litros</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+
           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Bote con Pedal</h4>
@@ -109,7 +223,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>48 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
           
@@ -124,7 +238,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>49 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -167,7 +281,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>50 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -182,7 +296,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>51 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -197,7 +311,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>52 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -212,7 +326,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>53 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -227,7 +341,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>54 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -242,7 +356,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>55 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 

@@ -108,7 +108,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p></p>
+                <p>16 Ancho x 31 Largo</p>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -137,19 +137,6 @@
                 <p></p>
             </div>
           </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Recogedor con baston</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/recogedorCbg.jpg" title="">
-                  <img src="img/productos/recogedorCbc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p></p>
-            </div>
-          </div> <!-- wrappPr  -->
 
           <div class="wrappPr">
             <div class="tituloPr">
@@ -161,7 +148,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p></p>
+                <p>6.5 Ancho x 13 Largo x 13 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -191,6 +178,21 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
+                <p>33 Ancho x 31 Largo x 32 Alto  capacidad de 16 Lts</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Topper Cuadrado</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/topperCuadrado.jpg" title="">
+                  <img src="img/productos/topperCuadrado.jpg" width="300" alt="Topper Cuadrado" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
                 <p>-</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
@@ -206,7 +208,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>13.4 Ancho x 40 Largo x 7.5 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -227,67 +229,7 @@
 
         <div class="wrappPr"> 
           <div class="tituloPr">
-            <h4>Topper con tapa de rosca de  Lts....</h4>
-          </div>
-          <div class="thumb">
-            <a class="lb" href="img/productos/Topper-con-tapa-de-rosca-de-Lts.....jpg" title="">
-                <img src="img/productos/Topper-con-tapa-de-rosca-de-Lts.....jpg" width="300" alt="cubetaEterna" />
-            </a>
-            <div class="sombraP"></div>
-          </div>
-          <div class="subPr">
-              <p>-</p>
-          </div>
-        </div> <!-- FIN NUEVO CONTENEDOR -->
-
-        <div class="wrappPr"> 
-          <div class="tituloPr">
-            <h4>Topper con tapa de rosca de  Lts...</h4>
-          </div>
-          <div class="thumb">
-            <a class="lb" href="img/productos/Topper-con-tapa-de-rosca-de-Lts....jpg" title="">
-                <img src="img/productos/Topper-con-tapa-de-rosca-de-Lts....jpg" width="300" alt="cubetaEterna" />
-            </a>
-            <div class="sombraP"></div>
-          </div>
-          <div class="subPr">
-              <p>-</p>
-          </div>
-        </div> <!-- FIN NUEVO CONTENEDOR -->
-
-        <div class="wrappPr"> 
-          <div class="tituloPr">
-            <h4>Topper con tapa de rosca de  Lts..</h4>
-          </div>
-          <div class="thumb">
-            <a class="lb" href="img/productos/Topper-de-rosca-de-Lts...jpg" title="">
-                <img src="img/productos/Topper-de-rosca-de-Lts...jpg" width="300" alt="cubetaEterna" />
-            </a>
-            <div class="sombraP"></div>
-          </div>
-          <div class="subPr">
-              <p>-</p>
-          </div>
-        </div> <!-- FIN NUEVO CONTENEDOR -->
-
-        <div class="wrappPr"> 
-          <div class="tituloPr">
-            <h4>Topper con tapa de rosca de  Lts.</h4>
-          </div>
-          <div class="thumb">
-            <a class="lb" href="img/productos/Topper-con-tapa-de-rosca-de-Lts..jpg" title="">
-                <img src="img/productos/Topper-con-tapa-de-rosca-de-Lts..jpg" width="300" alt="cubetaEterna" />
-            </a>
-            <div class="sombraP"></div>
-          </div>
-          <div class="subPr">
-              <p>-</p>
-          </div>
-        </div> <!-- FIN NUEVO CONTENEDOR -->
-
-        <div class="wrappPr"> 
-          <div class="tituloPr">
-            <h4>Topper con tapa de rosca de  Lts</h4>
+            <h4>Bote con tapa de rosca graduado de .75 Lts.</h4>
           </div>
           <div class="thumb">
             <a class="lb" href="img/productos/Topper-con-tapa-de-rosca-de-Lts.jpg" title="">
@@ -296,10 +238,84 @@
             <div class="sombraP"></div>
           </div>
           <div class="subPr">
-              <p>-</p>
+              <p>14 Diametro x 7.5 Alto</p>
           </div>
         </div> <!-- FIN NUEVO CONTENEDOR -->
 
+        <div class="wrappPr"> 
+          <div class="tituloPr">
+            <h4>Bote con tapa de rosca graduado mediano de 1.35 Lts.</h4>
+          </div>
+          <div class="thumb">
+            <a class="lb" href="img/productos/Topper-con-tapa-de-rosca-de-Lts....jpg" title="">
+                <img src="img/productos/Topper-con-tapa-de-rosca-de-Lts....jpg" width="300" alt="cubetaEterna" />
+            </a>
+            <div class="sombraP"></div>
+          </div>
+          <div class="subPr">
+              <p>14 Diametro x 12 Alto</p>
+          </div>
+        </div> <!-- FIN NUEVO CONTENEDOR -->
+
+        <div class="wrappPr"> 
+          <div class="tituloPr">
+            <h4>Bote con tapa de rosca graduado grande de 2.15 Lts.</h4>
+          </div>
+          <div class="thumb">
+            <a class="lb" href="img/productos/Topper-con-tapa-de-rosca-de-Lts....S.jpg" title="">
+                <img src="img/productos/Topper-con-tapa-de-rosca-de-Lts....S.jpg" width="300" alt="cubetaEterna" />
+            </a>
+            <div class="sombraP"></div>
+          </div>
+          <div class="subPr">
+              <p>14 Diametro x 19 Alto</p>
+          </div>
+        </div> <!-- FIN NUEVO CONTENEDOR -->
+
+        <div class="wrappPr"> 
+          <div class="tituloPr">
+            <h4>Bote con tapa de rosca graduado grande de 2.15 Lts. con asa</h4>
+          </div>
+          <div class="thumb">
+            <a class="lb" href="img/productos/Topper-con-tapa-de-rosca-de-Lts.....jpg" title="">
+                <img src="img/productos/Topper-con-tapa-de-rosca-de-Lts.....jpg" width="300" alt="cubetaEterna" />
+            </a>
+            <div class="sombraP"></div>
+          </div>
+          <div class="subPr">
+              <p>14 Diametro x 19 Alto</p>
+          </div>
+        </div> <!-- FIN NUEVO CONTENEDOR -->
+
+        <div class="wrappPr"> 
+          <div class="tituloPr">
+            <h4>Bote con tapa de rosca graduado jumbo de 2.8 Lts.</h4>
+          </div>
+          <div class="thumb">
+            <a class="lb" href="img/productos/Topper-con-tapa-de-rosca-de-Lts..jpg" title="">
+                <img src="img/productos/Topper-con-tapa-de-rosca-de-Lts..jpg" width="300" alt="cubetaEterna" />
+            </a>
+            <div class="sombraP"></div>
+          </div>
+          <div class="subPr">
+              <p>14 Diametro x 25 Alto</p>
+          </div>
+        </div> <!-- FIN NUEVO CONTENEDOR -->
+
+        <div class="wrappPr"> 
+          <div class="tituloPr">
+            <h4>Bote con tapa de rosca graduado jumbo de 2.8 Lts. con asa</h4>
+          </div>
+          <div class="thumb">
+            <a class="lb" href="img/productos/Topper-de-rosca-de-Lts...jpg" title="">
+                <img src="img/productos/Topper-de-rosca-de-Lts...jpg" width="300" alt="cubetaEterna" />
+            </a>
+            <div class="sombraP"></div>
+          </div>
+          <div class="subPr">
+              <p>14 Diametro x 25 Alto</p>
+          </div>
+        </div> <!-- FIN NUEVO CONTENEDOR -->
 
 
         </article>

@@ -17,20 +17,23 @@
                   <a class="nav-pl1" href="productos.php">Productos ></a><a class="nav-pl1" href="plastico.php"> Plástico ></a><a class="nav-pl1 navActive" href="infantil.php"> Infantil</a></h3>
                 <h1 class="titulo-b">Infantil</h1>
         </div> 
-        <article class="seccionC">
-           <div class="wrappPr">
+
+        <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Banco Infantil</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/bancoInfantil.jpg" title="">
+                  <img src="img/productos/bancoInfantil.jpg" width="300" alt="Banco Infantil" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
                 <p>30 fondo x 30  largo  x 26 alto capacidad 35 kg</p>
             </div>
-          </div> <!-- wrappPr  -->
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+
           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Silla Infantil</h4>
@@ -57,19 +60,21 @@
                 <p>44 fondo x 59 largo  x 47 alto</p>
             </div>
           </div> <!-- wrappPr  -->
-          <div class="wrappPr">
+
+          <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Carro Montable</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/carroMontable.jpg" title="">
+                  <img src="img/productos/carroMontable.jpg" width="300" alt="Carro Montable" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
                 <p>-</p>
             </div>
-          </div> <!-- wrappPr  -->
+          </div> <!-- FIN NUEVO CONTENEDOR -->
 
           <div class="wrappPr"> 
             <div class="tituloPr">
@@ -82,7 +87,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>40 Ancho x 62 Largo x 1.10 Alto Con 15 Gavetas Plasticas N. 3 de 13x16x27.5</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -97,7 +102,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>40 Ancho x 62 Largo x 1.10 Alto Con 5 Gavetas Plasticas N. 6 de 37.5x42x18</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -112,7 +117,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>40 Ancho x 62 Largo x 1.10 Alto Con 10 Gavetas Plasticas N. 4 de 18x23x37.5</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -127,7 +132,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>9 Ancho x 24 Largo x 22 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 

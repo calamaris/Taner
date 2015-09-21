@@ -82,7 +82,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>26 Ancho x 32.5 Largo x 26 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -97,7 +97,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>26 Ancho x 32.5 Largo x 45 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -112,7 +112,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>99 Ancho x 99 Largo x 72 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -127,7 +127,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>75 Ancho x 75 Largo x 73 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -142,7 +142,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>57 Ancho x 53 Largo x 81 Alto capacidad 90 Kg</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -157,7 +157,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>55 Ancho x 54 Largo x 74 Alto capacidad 120 Kg</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 

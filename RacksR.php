@@ -23,8 +23,8 @@
               <h4>Rack para Ropa Sencillo</h4>
             </div>
             <div class="wLb">
-               <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" alt="" />
+               <a class="lb" href="img/productos/raRg02.jpg" title="">
+                  <img src="img/productos/raRc02.jpg" alt="" />
                </a>
             </div>
             <div class="subPr">

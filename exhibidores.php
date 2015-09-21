@@ -58,19 +58,7 @@
                 <p>5 cm, 10 cm, 15 cm, 20 cm, 25 cm, 30 cm.</p>
             </div>
           </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Cremallera</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>2.44 alto</p>
-            </div>
-          </div> <!-- wrappPr  -->
+         
         
         </article> 
       </section>

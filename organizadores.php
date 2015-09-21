@@ -18,6 +18,84 @@
                 <h1 class="titulo-b">Organizadores</h1>
         </div> 
         <article class="seccionC">
+
+
+           <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Organizador Esmeralda Mini 4Lts</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/organizadorEsmeraldaMini.jpg" title="">
+                    <img src="img/productos/organizadorEsmeraldaMini.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>16.5 Ancho x 26 Largo x 14 Alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Organizador Esmeralda Chica de 4Lts</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/organizadorEsmeraldaChica4lts.jpg" title="">
+                    <img src="img/productos/organizadorEsmeraldaChica4lts.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>20 Ancho x 23 Largo x 18.5 Alto </p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Organizador Esmeralda Chica de 9Lts</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/organizadorEsmeraldaChica9lts.jpg" title="">
+                    <img src="img/productos/organizadorEsmeraldaChica9lts.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>20.5x 23 Largo x  25.5 Alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Organizador Esmeralda Mediana de 10Lts</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/organizadorEsmeraldaMediana.jpg" title="">
+                    <img src="img/productos/organizadorEsmeraldaMediana.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>20 Ancho x 32 Largo x 18 Alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Organizador Esmeralda Grande de 16Lts</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/organizadorEsmeraldaGrande.jpg" title="">
+                    <img src="img/productos/organizadorEsmeraldaGrande.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>25.5 Ancho x 35 Largo x 23.5 Alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+
            <div class="wrappPr">
             <div class="tituloPr">
               <h4>Cajonera Mediana</h4>
@@ -71,7 +149,7 @@
                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>16 Ancho x 20 Largo x 32 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -86,7 +164,7 @@
                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>34 Ancho x 25.5 Largo x 53 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -101,7 +179,7 @@
                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p> 45.5 Ancho x 40.5 Largo x 1.00 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -116,7 +194,7 @@
                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>60 Ancho x  41 Largo x 84 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -146,7 +224,7 @@
                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>34 Ancho x 25.5 Largo x 27 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -176,7 +254,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>40 Ancho x 62 Largo x 1.10 Alto Con 15 Gavetas Plasticas N. 3 de 13x16x27.5</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -191,7 +269,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>40 Ancho x 62 Largo x 1.10 Alto Con 5 Gavetas Plasticas N. 6 de 37.5x42x18</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -206,7 +284,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>40 Ancho x 62 Largo x 1.10 Alto Con 10 Gavetas Plasticas N. 4 de 18x23x37.5</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -221,7 +299,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>20 Ancho x 16 Largo x 30 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -236,7 +314,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>20 Ancho x 16 Largo x 25 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
