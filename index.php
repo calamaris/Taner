@@ -6,11 +6,17 @@
     <?php include 'includes/csss.html'; ?> 
     <?php include 'includes/head.html'; ?> <!--aqui esta el jquery-->
     </head>  
+
+    <?php include 'includes/popUp.html'; ?><!--Initial Pop Up -->
+
   <body class="gwd-body">
     <div id="preload"></div>
       <div class="contenedor">
         <?php include 'includes/header.html'; ?>
         <?php include 'includes/carrusel.html'; ?>
+
+
+
           
       <section class="seccion-a">
         <h1 class="titulo-a">¿Por qué Taner?</h1>
@@ -44,5 +50,4 @@
       <?php include 'includes/footer.html'; ?>
     </div>  <!-- contenedor -->
   </body>
-
 </html>

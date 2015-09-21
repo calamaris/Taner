@@ -95,36 +95,37 @@
             </div>
           </div> <!-- wrappPr  -->
 
-
-           <div class="wrappPr">
+          <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Cajonera Mediana</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/cajMedg.jpg" title="">
-                  <img src="img/productos/cajMedc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>32 fondo x 36  largo x 62 alto</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Cajonera Grande</h4>
+              <h4>Organizador de 2 niveles sin capelo</h4>
             </div>
             <div class="thumb">
-                  <a class="lb" href="img/productos/Cajonera_Grande.jpg" title="">
-                      <img src="img/productos/Cajonera_Grande.jpg" width="300" alt="#" />
-                  </a>
-                  <div class="sombraP"></div>
+              <a class="lb" href="img/productos/Organizador-de-2-niveles-sin-capelo.jpg" title="">
+                  <img src="img/productos/Organizador-de-2-niveles-sin-capelo.jpg" width="300" alt="organizador 2 niveles sin capelo" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>39 fondo x 55 largo x 62  alto</p>
+                <p>20 Ancho x 16 Largo x 25 Alto</p>
             </div>
-          </div> <!-- wrappPr  -->
-          
-          <div class="wrappPr">
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Organizador de 3 niveles sin capelo</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Organizador-de-3-niveles-sin-capelo.jpg" title="">
+                  <img src="img/productos/Organizador-de-3-niveles-sin-capelo.jpg" width="300" alt="organizador 3 niveles sin capelo" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>20 Ancho x 16 Largo x 30 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Organizador de 3 niveles</h4>
             </div>
@@ -138,7 +139,8 @@
                 <p>21 fondo x 16 largo x 26  alto</p>
             </div>
           </div> <!-- wrappPr  -->
-          <div class="wrappPr">
+
+           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Organizador de 4 niveles</h4>
             </div>
@@ -165,6 +167,21 @@
             </div>
             <div class="subPr">
                 <p>34 Ancho x 25.5 Largo x 53 Alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>organizador España</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/Organizador_España_de_2_niveles...2.jpg" title="">
+                    <img src="img/productos/Organizador_España_de_2_niveles...2.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>34 Ancho x 25.5 Largo x 27 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -198,52 +215,7 @@
             </div>
           </div> <!-- wrappPr  -->
 
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Librero Inglés</h4>
-            </div>
-            <div class="thumb">
-                <a class="lb" href="img/productos/librero_ingles...2.jpg" title="">
-                    <img src="img/productos/librero_ingles...2.jpg" width="300" alt="#" />
-                </a>
-                <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>organizador España</h4>
-            </div>
-            <div class="thumb">
-                <a class="lb" href="img/productos/Organizador_España_de_2_niveles...2.jpg" title="">
-                    <img src="img/productos/Organizador_España_de_2_niveles...2.jpg" width="300" alt="#" />
-                </a>
-                <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>34 Ancho x 25.5 Largo x 27 Alto</p>
-            </div>
-          </div> <!-- wrappPr  -->
-
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Ropero Inglés</h4>
-            </div>
-            <div class="thumb">
-                <a class="lb" href="img/productos/Ropero_Ingles.jpg" title="">
-                    <img src="img/productos/Ropero_Ingles.jpg" width="300" alt="#" />
-                </a>
-                <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          
-          <div class="wrappPr"> 
+           <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>gavetero plástico N. 9</h4>
             </div>
@@ -288,35 +260,65 @@
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Organizador de 3 niveles sin capelo</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Organizador-de-3-niveles-sin-capelo.jpg" title="">
-                  <img src="img/productos/Organizador-de-3-niveles-sin-capelo.jpg" width="300" alt="organizador 3 niveles sin capelo" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>20 Ancho x 16 Largo x 30 Alto</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
 
-          <div class="wrappPr"> 
+
+           <div class="wrappPr">
             <div class="tituloPr">
-              <h4>Organizador de 2 niveles sin capelo</h4>
+              <h4>Cajonera Mediana</h4>
             </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Organizador-de-2-niveles-sin-capelo.jpg" title="">
-                  <img src="img/productos/Organizador-de-2-niveles-sin-capelo.jpg" width="300" alt="organizador 2 niveles sin capelo" />
-              </a>
-              <div class="sombraP"></div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/cajMedg.jpg" title="">
+                  <img src="img/productos/cajMedc.jpg" alt="" />
+               </a>
             </div>
             <div class="subPr">
-                <p>20 Ancho x 16 Largo x 25 Alto</p>
+                <p>32 fondo x 36  largo x 62 alto</p>
             </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
+          </div> <!-- wrappPr  -->
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Cajonera Grande</h4>
+            </div>
+            <div class="thumb">
+                  <a class="lb" href="img/productos/Cajonera_Grande.jpg" title="">
+                      <img src="img/productos/Cajonera_Grande.jpg" width="300" alt="#" />
+                  </a>
+                  <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>39 fondo x 55 largo x 62  alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Librero Inglés</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/librero_ingles...2.jpg" title="">
+                    <img src="img/productos/librero_ingles...2.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>-</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Ropero Inglés</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/Ropero_Ingles.jpg" title="">
+                    <img src="img/productos/Ropero_Ingles.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>-</p>
+            </div>
+          </div> <!-- wrappPr  -->
 
           
           

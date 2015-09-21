@@ -33,20 +33,20 @@
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
-
-          <div class="wrappPr">
+          <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Silla Infantil</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/sillaInfantil.jpg" title="">
+                  <img src="img/productos/sillaInfantil.jpg" width="300" alt="Silla Infantil" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
                 <p>37 fondo x 36 largo  x 54 alto capacidad 30 kg</p>
             </div>
-          </div> <!-- wrappPr  -->
+          </div> <!-- FIN NUEVO CONTENEDOR -->
           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Mesa Pupitre</h4>

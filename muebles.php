@@ -106,8 +106,8 @@
               <h4>Mesa plastica redonda jardín</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/mesaRedondaJardin5.jpg" title="">
-                  <img src="img/productos/mesaRedondaJardin5.jpg" width="300" alt="banco abaible" />
+              <a class="lb" href="img/productos/MesaRedondaJardin5.jpg" title="">
+                  <img src="img/productos/MesaRedondaJardin5.jpg" width="300" alt="Mesa Redonda" />
               </a>
               <div class="sombraP"></div>
             </div>

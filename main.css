@@ -25,6 +25,50 @@ body {
 #preload{
   background: url(img/divM.png) no-repeat, url(img/sombrab.png) no-repeat, url(img/sombraA.png) no-repeat top left, url(img/sombrab.png) no-repeat top right, url(img/sombrac.png) top center, url(img/sombra.png) top left;
 }
+/***********initial Pop-UP***********/
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}  
+#boxes .window {
+  position:absolute;
+  left:0;
+  top:0;
+  width:600px;
+  height:600px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+  border-radius: 15px;
+  text-align: center;
+}
+#boxes #dialog {
+  width:600px; 
+  height:auto;
+  padding:10px;
+  background-color:#ffffff;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 15pt;
+}
+.maintext{
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+  text-decoration: none;
+}
+
+#textPopUp{
+  font-family: "Merriweather Sans", sans-serif;
+  font-size: 12pt;
+  text-align: left;
+}
+
+
+/*END Initial Pop-uP**********************************/
+
 .contenedor{ 
 	max-width: 1200px;
   min-width: 950px;

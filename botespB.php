@@ -114,8 +114,8 @@
               <h4>Bote Media Luna de 3 Lts</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/BoteMediaLuna3lts.jpg" title="">
-                  <img src="img/productos/BoteMediaLuna3lts.jpg" width="300" alt="Bote Media Luna de 3Lts" />
+              <a class="lb" href="img/productos/boteMediaLuna3lts.jpg" title="">
+                  <img src="img/productos/boteMediaLuna3lts.jpg" width="300" alt="Bote Media Luna de 3Lts" />
               </a>
               <div class="sombraP"></div>
             </div>
@@ -129,8 +129,8 @@
               <h4>Bote Media Luna de 6 Lts</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/BoteMediaLuna6lts.jpg" title="">
-                  <img src="img/productos/BoteMediaLuna6lts.jpg" width="300" alt="Bote Media Luna de 6 Lts" />
+              <a class="lb" href="img/productos/boteMediaLuna6lts.jpg" title="">
+                  <img src="img/productos/boteMediaLuna6lts.jpg" width="300" alt="Bote Media Luna de 6 Lts" />
               </a>
               <div class="sombraP"></div>
             </div>
@@ -144,8 +144,8 @@
               <h4>Bote Media Luna de 12.5 Lts</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/BoteMediaLuna12lts.jpg" title="">
-                  <img src="img/productos/BoteMediaLuna12lts.jpg" width="300" alt="Bote Media Luna de 12.5 Lts" />
+              <a class="lb" href="img/productos/boteMediaLuna12lts.jpg" title="">
+                  <img src="img/productos/boteMediaLuna12lts.jpg" width="300" alt="Bote Media Luna de 12.5 Lts" />
               </a>
               <div class="sombraP"></div>
             </div>
@@ -159,8 +159,8 @@
               <h4>Bote Media Luna de 25 Lts</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/BoteMediaLuna25lts.jpg" title="">
-                  <img src="img/productos/BoteMediaLuna25lts.jpg" width="300" alt="Bote Media Luna de 25 Lts" />
+              <a class="lb" href="img/productos/boteMediaLuna25lts.jpg" title="">
+                  <img src="img/productos/boteMediaLuna25lts.jpg" width="300" alt="Bote Media Luna de 25 Lts" />
               </a>
               <div class="sombraP"></div>
             </div>
@@ -168,48 +168,6 @@
                 <p>30 Ancho x 29 Largo x 58 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
-
-           <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Bote 120 Lts</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/bote120g.jpg" title="">
-                  <img src="img/productos/bote120c.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>56 fondo x 62 largo  x 80 alto capacidad 120 litros</p>
-            </div>
-          </div> <!-- wrappPr  -->
-
-
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Bote con Pedal</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/boteCpg.jpg" title="">
-                  <img src="img/productos/boteCpc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>32 fondo x 33 largo  x 42 alto capacidad 21 litros</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Bote Lapo con Tapa</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/boteLg.jpg" title="">
-                  <img src="img/productos/boteLc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>29 fondo x 29 largo  x 58 alto capacidad 20 litros</p>
-            </div>
-          </div> <!-- wrappPr  -->
           
 
           <div class="wrappPr"> 
@@ -242,35 +200,7 @@
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Cesto Papelero</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/CestoPg.jpg" title="">
-                  <img src="img/productos/CestoPc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- wrappPr  -->
-
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Cesto calado</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/cestoCg.jpg" title="">
-                  <img src="img/productos/cestoCc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- wrappPr  -->
-
-          <div class="wrappPr"> 
+           <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Bote cuadrado 46 lts tapa lisa </h4>
             </div>
@@ -315,7 +245,7 @@
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
-          <div class="wrappPr"> 
+           <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Bote con pedal chico 8 lts </h4>
             </div>
@@ -359,6 +289,76 @@
                 <p>55 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Cesto Papelero</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/cestoPg.jpg" title="">
+                  <img src="img/productos/cestoPc.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>-</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Cesto calado</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/cestoCg.jpg" title="">
+                  <img src="img/productos/cestoCc.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>-</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+           <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Bote 120 Lts</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/bote120g.jpg" title="">
+                  <img src="img/productos/bote120c.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>56 fondo x 62 largo  x 80 alto capacidad 120 litros</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Bote con Pedal</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/boteCpg.jpg" title="">
+                  <img src="img/productos/boteCpc.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>32 fondo x 33 largo  x 42 alto capacidad 21 litros</p>
+            </div>
+          </div> <!-- wrappPr  -->
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Bote Lapo con Tapa</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/boteLg.jpg" title="">
+                  <img src="img/productos/boteLc.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>29 fondo x 29 largo  x 58 alto capacidad 20 litros</p>
+            </div>
+          </div> <!-- wrappPr  -->
 
         </article>
       </section>
