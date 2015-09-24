@@ -409,7 +409,7 @@
 
           <div class="wrappPr">
             <div class="tituloPr">
-              <h4>Contenedor Jumbo</h4>
+              <h4>Contenedor de Grapa Jumbo</h4>
             </div>
             <div class="wLb">
                <a class="lb" href="img/productos/conJumg.jpg" title="">
@@ -420,6 +420,38 @@
                 <p>30 fondo x 54 largo x 19 alto con tapa de Grapa</p>
             </div>
           </div> <!-- wrappPr  -->
+
+            <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Contenedor con grapa de 25 lts</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Contenedor-con-grapa-de-25-lts.jpg" title="">
+                  <img src="img/productos/Contenedor-con-grapa-de-25-lts.jpg" width="300" alt="Contenedor-con-grapa-de-25-lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>40.5 Ancho x 59.5 Largo x 17 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Contenedor con Grapa de 55 lts</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Contenedor-con-Grapa-de-55-lts.jpg" title="">
+                  <img src="img/productos/Contenedor-con-Grapa-de-55-lts.jpg" width="300" alt="Contenedor-con-Grapa-de-55-lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>40.5 Ancho x 59.5 Largo x 31 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+
           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Contenedor Mónaco Chico</h4>
@@ -453,7 +485,7 @@
 
           <div class="wrappPr">
               <div class="tituloPr">
-                <h4>CAJA MULTIBOX DE 5 LTS</h4>
+                <h4>Caja multibox de 5 lts</h4>
               </div>
               <div class="thumb">
                 <a class="lb" href="img/productos/CajaMultibox5lt.jpg" title="">
@@ -537,25 +569,11 @@
                 <div class="sombraP"></div>
               </div>
               <div class="subPr">
-                  <p>-</p>
+                  <p>39 Ancho x 54 Largo x 27.5 Alto</p>
               </div>
           </div> <!-- New // wrappPr  -->
 
-          <div class="wrappPr">
-              <div class="tituloPr">
-                <h4>Caja multibox de 35 lts</h4>
-              </div>
-              <div class="thumb">
-                <a class="lb" href="img/productos/caja_multibox_de_35_lts...4.jpg" title="">
-                    <img src="img/productos/caja_multibox_de_35_lts...4.jpg" width="300" alt="#" />
-                </a>
-                <div class="sombraP"></div>
-              </div>
-              <div class="subPr">
-                  <p>-</p>
-              </div>
-          </div> <!-- New // wrappPr  -->
-
+          
           <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Contenedor Decorado Disney</h4>
@@ -706,35 +724,7 @@
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Contenedor con Grapa de 55 lts</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Contenedor-con-Grapa-de-55-lts.jpg" title="">
-                  <img src="img/productos/Contenedor-con-Grapa-de-55-lts.jpg" width="300" alt="Contenedor-con-Grapa-de-55-lts" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Contenedor con grapa de 25 lts</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Contenedor-con-grapa-de-25-lts.jpg" title="">
-                  <img src="img/productos/Contenedor-con-grapa-de-25-lts.jpg" width="300" alt="Contenedor-con-grapa-de-25-lts" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
+          
 
           
          

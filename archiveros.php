@@ -46,20 +46,23 @@
              <h5>Este producto se puede fabricar según sus necesidades</h5>
             </div>
           </div> <!-- wrappPr  -->
-          <div class="wrappPr">
+
+          <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Archivero Vertical 4 Gavetas</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/archivero4.jpg" title="">
+                  <img src="img/productos/archivero4.jpg" width="300" alt="Archivero Vertical 4 Gavetas" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
                 <p>70 fondo x 45 largo x 1.35 alto fabricado en lamina cal. 24 con cajones y cubierta cal. 22 y refuerzos cal. 18 apto para tamaño oficio y/o carta</p>
               <h5>Este producto se puede fabricar según sus necesidades</h5>
+
             </div>
-          </div> <!-- wrappPr  -->
+          </div> <!-- FIN NUEVO CONTENEDOR -->
       
         </article> 
       </section>

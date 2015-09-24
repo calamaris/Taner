@@ -136,6 +136,21 @@
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Ropero Inglés</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/Ropero_Ingles.jpg" title="">
+                    <img src="img/productos/Ropero_Ingles.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>-</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
 
 
         </article>

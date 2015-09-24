@@ -157,6 +157,21 @@
 
           <div class="wrappPr">
             <div class="tituloPr">
+              <h4>organizador España</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/Organizador_España_de_2_niveles...2.jpg" title="">
+                    <img src="img/productos/Organizador_España_de_2_niveles...2.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>34 Ancho x 25.5 Largo x 27 Alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
               <h4>Cajonera España</h4>
             </div>
             <div class="thumb">
@@ -172,16 +187,29 @@
 
           <div class="wrappPr">
             <div class="tituloPr">
-              <h4>organizador España</h4>
+              <h4>Cajonera Mediana</h4>
             </div>
-            <div class="thumb">
-                <a class="lb" href="img/productos/Organizador_España_de_2_niveles...2.jpg" title="">
-                    <img src="img/productos/Organizador_España_de_2_niveles...2.jpg" width="300" alt="#" />
-                </a>
-                <div class="sombraP"></div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/cajMedg.jpg" title="">
+                  <img src="img/productos/cajMedc.jpg" alt="" />
+               </a>
             </div>
             <div class="subPr">
-                <p>34 Ancho x 25.5 Largo x 27 Alto</p>
+                <p>32 fondo x 36  largo x 62 alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Cajonera Grande</h4>
+            </div>
+            <div class="thumb">
+                  <a class="lb" href="img/productos/Cajonera_Grande.jpg" title="">
+                      <img src="img/productos/Cajonera_Grande.jpg" width="300" alt="#" />
+                  </a>
+                  <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>39 fondo x 55 largo x 62  alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -212,6 +240,36 @@
             </div>
             <div class="subPr">
                 <p>60 Ancho x  41 Largo x 84 Alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Ropero Inglés</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/Ropero_Ingles.jpg" title="">
+                    <img src="img/productos/Ropero_Ingles.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>40 Ancho x 62 Largo x 1.05 Alto</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Librero Inglés</h4>
+            </div>
+            <div class="thumb">
+                <a class="lb" href="img/productos/librero_ingles...2.jpg" title="">
+                    <img src="img/productos/librero_ingles...2.jpg" width="300" alt="#" />
+                </a>
+                <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>40 Ancho x 62 Largo x 1.10 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -259,66 +317,6 @@
                 <p>40 Ancho x 62 Largo x 1.10 Alto Con 10 Gavetas Plasticas N. 4 de 18x23x37.5</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
-
-
-
-           <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Cajonera Mediana</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/cajMedg.jpg" title="">
-                  <img src="img/productos/cajMedc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>32 fondo x 36  largo x 62 alto</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Cajonera Grande</h4>
-            </div>
-            <div class="thumb">
-                  <a class="lb" href="img/productos/Cajonera_Grande.jpg" title="">
-                      <img src="img/productos/Cajonera_Grande.jpg" width="300" alt="#" />
-                  </a>
-                  <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>39 fondo x 55 largo x 62  alto</p>
-            </div>
-          </div> <!-- wrappPr  -->
-
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Librero Inglés</h4>
-            </div>
-            <div class="thumb">
-                <a class="lb" href="img/productos/librero_ingles...2.jpg" title="">
-                    <img src="img/productos/librero_ingles...2.jpg" width="300" alt="#" />
-                </a>
-                <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- wrappPr  -->
-
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Ropero Inglés</h4>
-            </div>
-            <div class="thumb">
-                <a class="lb" href="img/productos/Ropero_Ingles.jpg" title="">
-                    <img src="img/productos/Ropero_Ingles.jpg" width="300" alt="#" />
-                </a>
-                <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- wrappPr  -->
 
           
           

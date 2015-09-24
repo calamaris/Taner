@@ -30,7 +30,7 @@
             </div>
             <div class="subPr">
               <h5>-</h5>
-                <p>-</p>
+                <p>40 Ancho x 36 Largo x 57 Altura </p>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -44,7 +44,7 @@
             </div>
             <div class="subPr">
               <h5>-</h5>
-                <p>-</p>
+                <p>40 Ancho x 36 Largo x 78 Altura</p>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">

@@ -51,21 +51,6 @@
 
           <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Bote N. 2 Tapa Balancín</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/boteBasuraN2Balancin.jpg" title="">
-                  <img src="img/productos/boteBasuraN2Balancin.jpg" width="300" alt="Bote para Basura N.1 Tapa Balancin" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>50 fondo x 53 largo  x 96 alto capacidad 100 litros</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
               <h4>Bote N. 2 Tapa Lisa</h4>
             </div>
             <div class="thumb">
@@ -79,6 +64,20 @@
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote N. 2 Tapa Balancín</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/boteBasuraN2Balancin.jpg" title="">
+                  <img src="img/productos/boteBasuraN2Balancin.jpg" width="300" alt="Bote para Basura N.1 Tapa Balancin" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50 fondo x 53 largo  x 96 alto capacidad 100 litros</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
 
           <div class="wrappPr">
             <div class="tituloPr">
@@ -96,16 +95,104 @@
 
           <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Bote Papelero Ovalado</h4>
+              <h4>Bote cuadrado 90 lts tapa balancin</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/BoteOvalado.jpg" title="">
-                  <img src="img/productos/BoteOvalado.jpg" width="300" alt="Bote Papelero Ovalado" />
+              <a class="lb" href="img/productos/BoteCuadrado_90lts.jpg" title="">
+                  <img src="img/productos/BoteCuadrado_90lts.jpg" width="300" alt="BoteCuadrado_90lts" />
               </a>
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>37 Diametro X 56 Alto</p>
+                <p>55 Ancho x 48 Largo x 71 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Bote 120 Lts</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/bote120g.jpg" title="">
+                  <img src="img/productos/bote120c.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>56 fondo x 62 largo  x 80 alto capacidad 120 litros</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote cuadrado 46 lts tapa lisa </h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Bote_Cuadrado_Tapa_Lisa_46_Lts.jpg" title="">
+                  <img src="img/productos/Bote_Cuadrado_Tapa_Lisa_46_Lts.jpg" width="300" alt="Bote_Cuadrado_Tapa_Lisa_46_Lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50 Ancho x 48 Largo x 71 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote cuadrado 46 lts tapa balancin </h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Bote_Cuadrado_Tapa_Balancin_46_Lts.jpg" title="">
+                  <img src="img/productos/Bote_Cuadrado_Tapa_Balancin_46_Lts.jpg" width="300" alt="Bote_Cuadrado_Tapa_Balancin_46_Lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>51 Ancho x 48 Largo x 71 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote redondo tapa balancin 35 lts </h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Bote_Redondo_tapa_Balancin_35_lts.jpg" title="">
+                  <img src="img/productos/Bote_Redondo_tapa_Balancin_35_lts.jpg" width="300" alt="Bote_Redondo_tapa_Balancin_35_lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>52 Ancho x 48 Largo x 71 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Bote Lapo con Tapa</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/boteLg.jpg" title="">
+                  <img src="img/productos/boteLc.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>29 fondo x 29 largo  x 58 alto capacidad 20 litros</p>
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote escritorio tapa balancin  6 lts </h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Bote_Escritorio_Balancin_6_Lts...2.jpg" title="">
+                  <img src="img/productos/Bote_Escritorio_Balancin_6_Lts...2.jpg" width="300" alt="Bote_Escritorio_Balancin_6_Lts...2" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>54 Ancho x 48 Largo x 71 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -168,9 +255,37 @@
                 <p>30 Ancho x 29 Largo x 58 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
-          
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Bote con Pedal Grande</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/boteCpg.jpg" title="">
+                  <img src="img/productos/boteCpc.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>32 fondo x 33 largo  x 42 alto capacidad 21 litros</p>
+            </div>
+          </div> <!-- wrappPr  -->
 
           <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote con pedal chico 8 lts </h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Bote_con_Pedal_Chico_8_lts.jpg" title="">
+                  <img src="img/productos/Bote_con_Pedal_Chico_8_lts.jpg" width="300" alt="Bote_con_Pedal_Chico_8_lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>53 Ancho x 48 Largo x 71 Alto</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+           <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Bote Redondo Calado</h4>
             </div>
@@ -200,95 +315,6 @@
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
-           <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Bote cuadrado 46 lts tapa lisa </h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Bote_Cuadrado_Tapa_Lisa_46_Lts.jpg" title="">
-                  <img src="img/productos/Bote_Cuadrado_Tapa_Lisa_46_Lts.jpg" width="300" alt="Bote_Cuadrado_Tapa_Lisa_46_Lts" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>50 Ancho x 48 Largo x 71 Alto</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Bote cuadrado 46 lts tapa balancin </h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Bote_Cuadrado_Tapa_Balancin_46_Lts.jpg" title="">
-                  <img src="img/productos/Bote_Cuadrado_Tapa_Balancin_46_Lts.jpg" width="300" alt="Bote_Cuadrado_Tapa_Balancin_46_Lts" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>51 Ancho x 48 Largo x 71 Alto</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Bote redondo tapa balancin 35 lts </h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Bote_Redondo_tapa_Balancin_35_lts.jpg" title="">
-                  <img src="img/productos/Bote_Redondo_tapa_Balancin_35_lts.jpg" width="300" alt="Bote_Redondo_tapa_Balancin_35_lts" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>52 Ancho x 48 Largo x 71 Alto</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-           <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Bote con pedal chico 8 lts </h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Bote_con_Pedal_Chico_8_lts.jpg" title="">
-                  <img src="img/productos/Bote_con_Pedal_Chico_8_lts.jpg" width="300" alt="Bote_con_Pedal_Chico_8_lts" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>53 Ancho x 48 Largo x 71 Alto</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Bote escritorio tapa balancin  6 lts </h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/Bote_Escritorio_Balancin_6_Lts...2.jpg" title="">
-                  <img src="img/productos/Bote_Escritorio_Balancin_6_Lts...2.jpg" width="300" alt="Bote_Escritorio_Balancin_6_Lts...2" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>54 Ancho x 48 Largo x 71 Alto</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Bote cuadrado 90 lts tapa balancin</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/BoteCuadrado_90lts.jpg" title="">
-                  <img src="img/productos/BoteCuadrado_90lts.jpg" width="300" alt="BoteCuadrado_90lts" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>55 Ancho x 48 Largo x 71 Alto</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
 
           <div class="wrappPr">
             <div class="tituloPr">
@@ -318,47 +344,20 @@
             </div>
           </div> <!-- wrappPr  -->
 
-           <div class="wrappPr">
+          <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Bote 120 Lts</h4>
+              <h4>Bote Papelero Ovalado</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/bote120g.jpg" title="">
-                  <img src="img/productos/bote120c.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/BoteOvalado.jpg" title="">
+                  <img src="img/productos/BoteOvalado.jpg" width="300" alt="Bote Papelero Ovalado" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>56 fondo x 62 largo  x 80 alto capacidad 120 litros</p>
+                <p>37 Diametro X 56 Alto</p>
             </div>
-          </div> <!-- wrappPr  -->
-
-
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Bote con Pedal</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/boteCpg.jpg" title="">
-                  <img src="img/productos/boteCpc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>32 fondo x 33 largo  x 42 alto capacidad 21 litros</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Bote Lapo con Tapa</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/boteLg.jpg" title="">
-                  <img src="img/productos/boteLc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>29 fondo x 29 largo  x 58 alto capacidad 20 litros</p>
-            </div>
-          </div> <!-- wrappPr  -->
+          </div> <!-- FIN NUEVO CONTENEDOR -->
 
         </article>
       </section>

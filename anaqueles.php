@@ -74,7 +74,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>42 Ancho x 16 Largo x 41 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -89,7 +89,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>42 Ancho x 16 Largo x 53.5 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 

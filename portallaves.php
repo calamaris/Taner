@@ -70,7 +70,7 @@
                 <div class="sombraP"></div>
               </div>
               <div class="subPr">
-                  <p>-</p>
+                  <p>38 Ancho x 35 Largo x 6 Alto</p>
               </div>
           </div> <!-- New // wrappPr  -->
 

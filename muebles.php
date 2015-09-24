@@ -31,19 +31,22 @@
                 <p>47 fondo x 50  largo  x 42 alto capacidad 80 kg</p>
             </div>
           </div> <!-- wrappPr  -->
-          <div class="wrappPr">
+
+          <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Banco Alex</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/bag02.jpg" title="">
-                  <img src="img/productos/bac02.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/bancoAlex.jpg" title="">
+                  <img src="img/productos/bancoAlex.jpg" width="300" alt="Banco Alex" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
                 <p>36 fondo x 41  largo  x 47 alto capacidad 80 kg</p>
             </div>
-          </div> <!-- wrappPr  -->
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Banco Reforzado</h4>
@@ -57,19 +60,21 @@
                 <p>41 fondo x 41  largo  x 44 alto capacidad 100 kg</p>
             </div>
           </div> <!-- wrappPr  -->
-          <div class="wrappPr">
+
+           <div class="wrappPr"> 
             <div class="tituloPr">
               <h4>Banco Infantil</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/bancoIg.jpg" title="">
-                  <img src="img/productos/bancoIc.jpg" alt="" />
-               </a>
+            <div class="thumb">
+              <a class="lb" href="img/productos/bancoInfantil.jpg" title="">
+                  <img src="img/productos/bancoInfantil.jpg" width="300" alt="Banco Alex" />
+              </a>
+              <div class="sombraP"></div>
             </div>
             <div class="subPr">
                 <p>30 fondo x 30  largo  x 26 alto capacidad 35 kg</p>
             </div>
-          </div> <!-- wrappPr  -->
+          </div> <!-- FIN NUEVO CONTENEDOR -->
 
           <div class="wrappPr"> 
             <div class="tituloPr">
