@@ -69,6 +69,23 @@ body {
 
 /*END Initial Pop-uP**********************************/
 
+/*---------------VIDEOS----------------*/
+#video1{
+  width: 520px;
+  height: 300px;
+  margin: 40px;
+  float: left;
+}
+
+
+#video2{
+  width: 520px;
+  height: 300px;
+  margin: 40px;
+  float: left;
+}
+
+/*---------------VIDEOS END----------------*/
 .contenedor{ 
 	max-width: 1200px;
   min-width: 950px;
