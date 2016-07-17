@@ -28,10 +28,32 @@
                </a>
             </div>
             <div class="subPr">
-                <p>50 fondox 80 largo x 1.80 alto fabricado en lamina cal. 24 refuerzos cal. 20</p>
+                <p>50 ancho x 80 largo x 1.80 alto fabricado en lamina cal. 24 refuerzos cal. 20</p>
               <h5>Este producto se puede fabricar según sus necesidades</h5>
             </div>
           </div> <!-- wrappPr  -->
+
+         <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Mueble Univesal con Gavetas Plasticas</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/muebleUgavetas.jpg" title="">
+                  <img src="img/productos/muebleUgavetas.jpg" width="300" alt="Mueble Universal con Gavetas Plasticas" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50 Ancho x 80 Largo x 1.80 Alto</p>
+                <p>Componentes = 21 Gavetas N. 2, 20 Gavetas N. 3 y 6 Gavetas N. 6</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
       
         </article> 
       </section>

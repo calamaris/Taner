@@ -29,7 +29,16 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>30 fondo x 30  largo  x 26 alto capacidad 35 kg</p>
+                <p>30 ancho x 30  largo  x 26 alto</p>
+                <p>capacidad 35 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -44,7 +53,15 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>37 fondo x 36 largo  x 54 alto capacidad 30 kg</p>
+                <p>37 ancho x 36 largo  x 54 alto</p>
+                <p>capacidad 30 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rosa"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
           <div class="wrappPr">
@@ -57,7 +74,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p>44 fondo x 59 largo  x 47 alto</p>
+                <p>44 ancho x 59 largo  x 47 alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -88,6 +105,11 @@
             </div>
             <div class="subPr">
                 <p>40 Ancho x 62 Largo x 1.10 Alto Con 15 Gavetas Plasticas N. 3 de 13x16x27.5</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -103,6 +125,11 @@
             </div>
             <div class="subPr">
                 <p>40 Ancho x 62 Largo x 1.10 Alto Con 5 Gavetas Plasticas N. 6 de 37.5x42x18</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -118,6 +145,11 @@
             </div>
             <div class="subPr">
                 <p>40 Ancho x 62 Largo x 1.10 Alto Con 10 Gavetas Plasticas N. 4 de 18x23x37.5</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -133,6 +165,13 @@
             </div>
             <div class="subPr">
                 <p>9 Ancho x 24 Largo x 22 Alto</p>
+                <div class="colors">
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -148,6 +187,12 @@
             </div>
             <div class="subPr">
                 <p>-</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                </div>
+
             </div>
           </div> <!-- wrappPr  -->
 

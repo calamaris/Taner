@@ -28,7 +28,14 @@
                </a>
             </div>
             <div class="subPr">
-                <p>47 fondo x 50  largo  x 42 alto capacidad 80 kg</p>
+                <p>47 Ancho x 50  largo  x 42 alto capacidad 80 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -43,7 +50,15 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>36 fondo x 41  largo  x 47 alto capacidad 80 kg</p>
+                <p>36 Ancho x 41  largo  x 47 alto capacidad 80 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -57,9 +72,35 @@
                </a>
             </div>
             <div class="subPr">
-                <p>41 fondo x 41  largo  x 44 alto capacidad 100 kg</p>
+                <p>41 Ancho x 41  largo  x 44 alto capacidad 100 kg</p>
+                <div class="colors">
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Banco Alex Jumbo</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/banco-alex-jumbo.jpg" title="">
+                  <img src="img/productos/banco-alex-jumbo.jpg" width="300" alt="Banco Alex Jumbo" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>38 Ancho x 38 Largo x 69 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
 
            <div class="wrappPr"> 
             <div class="tituloPr">
@@ -72,22 +113,15 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>30 fondo x 30  largo  x 26 alto capacidad 35 kg</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Banco Abatible Chico</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/banco_armable.jpg" title="">
-                  <img src="img/productos/banco_armable.jpg" width="300" alt="banco_armable" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>26 Ancho x 32.5 Largo x 26 Alto</p>
+                <p>30 Ancho x 30  largo  x 26 alto capacidad 35 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -138,21 +172,6 @@
 
           <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Silla Bejuco</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/silla_bejuco...3.jpg" title="">
-                  <img src="img/productos/silla_bejuco...3.jpg" width="300" alt="Silla Bejuco " />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>57 Ancho x 53 Largo x 81 Alto capacidad 90 Kg</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
               <h4>Silla Reforzada</h4>
             </div>
             <div class="thumb">
@@ -163,6 +182,12 @@
             </div>
             <div class="subPr">
                 <p>55 Ancho x 54 Largo x 74 Alto capacidad 120 Kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 

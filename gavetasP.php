@@ -28,7 +28,14 @@
                </a>
             </div>
             <div class="subPr">
-                <p>15 fondo x 10.5 largo  x 8 alto capacidad de 2 kg</p>
+                <p>10 Ancho x 15 Largo x 8 Alto</p>
+                <p>capacidad de 2 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -41,7 +48,14 @@
                </a>
             </div>
             <div class="subPr">
-                <p>19 fondo x 12 largo  x 7.5 alto capacidad de 3 kg</p>
+                <p>12 Ancho x 19 Largo x 7.5 Alto</p>
+                <p>capacidad de 3 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -54,7 +68,14 @@
                </a>
             </div>
             <div class="subPr">
-                <p>27.5 fondo x 16 largo  x 13 alto capacidad de 7 kg</p>
+                <p>16 Ancho x 27.5 Largo x 13 Alto</p>
+                <p>capacidad de 7 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -67,7 +88,14 @@
                </a>
             </div>
             <div class="subPr">
-                <p>37.5 fondo x 23.2 largo  x 18 alto capacidad de 19 kg</p>
+                <p>23.2 Ancho x 37.5 Largo x 18 Alto</p>
+                <p>capacidad de 19 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -80,7 +108,14 @@
                </a>
             </div>
             <div class="subPr">
-                <p>50 fondo x 31 largo  x 20 alto capacidad de 40 kg</p>
+                <p>31 Ancho x 50 Largo x 20 Alto</p>
+                <p>capacidad de 40 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -93,7 +128,14 @@
                </a>
             </div>
             <div class="subPr">
-                <p>37.5 fondo x 42 largo  x 18 alto capacidad de 35 kg</p>
+                <p>42 Ancho x 37.5 Largo x 18 Alto</p>
+                <p>capacidad de 35 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -109,6 +151,13 @@
             </div>
             <div class="subPr">
                 <p>22.5 Ancho x 37.5 Largo x 15 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -124,6 +173,13 @@
             </div>
             <div class="subPr">
                 <p>25 Ancho x 39 Largo x 18 Alto</p>
+                <div class="colors">
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 

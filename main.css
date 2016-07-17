@@ -8,10 +8,19 @@
     font-weight: normal;
     font-style: normal;
 }
+
+.cuadros div figure{
+  transition: all 1s ease .1s;
+}
+
+.cuadros div figure:hover{
+  transform: rotateY(360deg);
+}
+
 * { 
 	margin: 0px;
   padding: 0px;
-  border: 
+   
 }
 body {
      font-size: 16px;
@@ -257,7 +266,7 @@ header p a{
 }
 
 #menusecundario li{            
-  width: 18.5%;
+  width: 15.5%;
   padding: 0px 3px;
   display:inline-block;
   margin: 0px auto;
@@ -267,7 +276,7 @@ header p a{
 
 #menusecundario li a{
   color: rgba(255,255,255, 0.7);
-  padding: 8px 22% 7px 22%;
+  padding: 8px 10% 7px 10%;
   text-decoration: none;
   text-align: center;
   display: inline-block;  
@@ -277,6 +286,14 @@ header p a{
 
 #menusecundario li a:hover  {
   color: rgba(255,255,255, 1);
+
+  /*border-top: 4px solid rgba(0,0,0, 0.2);
+  
+  padding: 4px 21% 7px 21%;*/
+}
+
+#menusecundario li:hover  {
+  color: rgba(255,255,255, 1);
   background: url(img/sombraSub.png)no-repeat top center;
   /*border-top: 4px solid rgba(0,0,0, 0.2);
   
@@ -284,60 +301,136 @@ header p a{
 }
 
 /*   -----  INDEX   -------   */
+#pleca-top{
+  width: 100%;
+  height: 32px;
+  position: relative;
+  display: block;
+  background-color: #774b96;
+  margin-top: -60px;
+}
+
+#arrow-pleca{
+  width: 64px;
+  height: 42px;
+  position: relative;
+  margin: 0 auto;
+  background-image: url("img/arrow.png");
+}
+
+#porque{
+  display: block;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  font-size: 40px;
+  color: #717171;
+  margin-top: 20px;
+}
+
+#envolvente-cuadros{
+  width: 100%;
+  position: relative;
+  margin-top: 70px;
+}
 
 .seccion-a {
   width: 100%;
-  padding: 0 0; 
-  margin: 0px auto 35px auto;
+  margin: 60px auto 35px auto;
   font-family: 'Merriweather Sans', sans-serif;
+  position: relative;
+  display: block;
 }
 
-.titulo-a {
+.txt-resaltado{
+  text-align: left;
+  padding: 15px;
+  padding-bottom: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #7e7e7e;
+}
+
+.contenido-C{
+  text-align: justify;
+  padding: 15px;
+  font-size: 17px;
+  color: #7e7e7e;
+}
+
+#titulo-fabrica{
+  color: #0eb8d9;
+}
+
+#titulo-entrega{
+  color: #ee7a2d;
+}
+
+#titulo-calidad{
+  color: #73b53d;
+}
+
+.titulo-C {
   text-align: center;
-  margin: 30px auto 30px auto;
+  margin: 5px auto 5px auto;
   padding: 0px;
-  font-size: 4em;
-  color: #3A3A3A;
+  font-size: 28px;
   font-weight: 300;
+  font-weight: bold;
   
 }
 
-.cuadros {
-  display: inline-block;
-  width: 32.333%;
-  overflow: hidden;
-  height: auto; 
+.cuadro {
+  display: inline-table;
+  width: 26%;
+  height: 400px; 
   background-color: rgba(255,255,255, 0.3);
   padding: 0px; 
-  margin: 0px 0px 0px 0.5%;
+  margin: 0px 0px 0px 5%;
+  border: solid 4px;
+  border-bottom: solid 35px;
+  border-radius: 10%;
 }
-.cuadros div{
-  
-  width: auto;
-  margin: 0;
-}
-.cuadros div figure{
+
+.icon { /*img*/
+  background-position: center;
+  background-size: contain; 
+  margin: 0 auto;
   width: 100px;
-  margin: 10px auto 10px auto;
-}
-.iconoa { /*img*/
-  border-radius: 50%;
-  margin: 0px;
-  padding: 0px;
-  display: inline-block;
+  height: 100px;
+  margin-top: -50px;
+  transition: all .4s ease .2s;
  }
-div figcaption {
-  text-align: center;
-  color: #3A3A3A;
-  text-decoration: none;
-  margin: 0px;
+
+ #fabrica{
+  border-color: #0eb8d9;
+ }
+
+ #entrega{
+  border-color: #ee7a2d;
+ }
+
+ #calidad{
+  border-color: #73b53d;
+ }
+
+ #icon-fabricantes{
+  background-image: url("img/icon-fabrica.png"); 
+ }
+
+ #icon-entrega{
+  background-image: url("img/icon-entrega.png"); 
+ }
+
+ #icon-calidad{
+  background-image: url("img/icon-calidad.png"); 
+ }
+ 
+ .cuadro:hover .icon{
+  transform: rotate(360deg);
+ }
 
 
-}
-div figcaption h2 {
-  margin: 0px;
-  font-weight: 800;
-}
 
 /* -----   LINEAS   ----- */
 
@@ -471,6 +564,19 @@ div figcaption h2 {
 
 #tVitrinas:hover {
    background: url(img/titulos/tVitrinas.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}
+
+
+#tEscaleras {
+  background: url(img/titulos/escaleraBasica-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#tEscaleras:hover {
+   background: url(img/titulos/escaleraBasica-fondo.jpg) no-repeat;
   background-size: 600px;
   background-position:  bottom left;
 }
@@ -763,6 +869,65 @@ div figcaption h2 {
   background-position:  bottom left;
 }/* -- */
 
+/*  Escaleras  -----------------*/
+
+
+#btn-escalera-basica {
+  background: url(img/titulos/escaleraBasica-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#btn-escalera-basica:hover {
+  background: url(img/titulos/escaleraBasica-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#btn-escalera-aluminio {
+  background: url(img/titulos/escalera-recta-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#btn-escalera-aluminio:hover {
+  background: url(img/titulos/escalera-recta-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#btn-escalera-diablos {
+  background: url(img/titulos/diablos-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#btn-escalera-diablos:hover {
+  background: url(img/titulos/diablos-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#btn-escalera-domesticas {
+  background: url(img/titulos/domesticas-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#btn-escalera-domesticas:hover {
+  background: url(img/titulos/domesticas-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+#btn-escalera-fibra {
+  background: url(img/titulos/fibra-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#btn-escalera-fibra:hover {
+  background: url(img/titulos/fibra-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+
 /*   ----- PRODUCTOS  ------   */
 
 .seccionC {
@@ -779,6 +944,18 @@ div figcaption h2 {
   position: relative;
   min-height: 397px;
 }
+
+.wrappPr-grande {
+  margin: 10px 10px 10px 10px;
+  width: 360px;
+  height: 450px;
+  background: white;
+  float: left;
+  box-shadow: 2px 0px 6px rgba(0,0,0,0.5);
+  position: relative;
+  min-height: 397px;
+}
+
 .tituloPr {
   text-align: center;
   width: 360px;
@@ -809,8 +986,115 @@ div figcaption h2 {
   color: gray;
 }
 .subPr p{
-  margin-bottom: 6px;
+  margin-bottom: 5px;
 }
+
+.subPr-scroll {
+  height: 56px;
+  background: url(img/subPr.jpg) no-repeat top center;
+  padding: 15px 7px 6px 7px;
+  text-align: center;
+  overflow: scroll;
+  font-size: 12px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 400;
+  color: gray;
+
+}
+.subPr-scroll p{
+  margin-bottom: 5px;
+
+}
+/*------------------------------- COLORES */
+
+
+
+#colors{
+  position: absolute;
+  width: 100%;
+}
+
+.color{
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  transition: all .2s ease .1s;
+}
+
+#amarillo{
+  background-color: yellow;
+}
+
+#naranja{
+  background-color: orange;
+}
+
+#verde{
+  background-color: green;
+}
+
+#verdeOscuro{
+  background-color: #194f07;
+}
+
+#guinda{
+  background-color: #800c14;
+}
+
+#azul{
+  background-color: blue;
+}
+
+#gris{
+  background-color: gray;
+}
+
+#azulCielo{
+  background-color: #4fdef8;
+}
+
+#morado{
+  background-color: purple;
+}
+
+#rosa{
+  background-color: pink;
+}
+
+#violeta{
+  background-color: #cd8cff;
+}
+
+#rojo{
+  background-color: red;
+}
+
+#negro{
+  background-color: black;
+}
+
+#azulClaro{
+  background-color: #1ea5e4;
+}
+
+#cafe{
+  background-color: brown;
+}
+
+#carne{
+  background-color: #fdd089;
+}
+
+
+#blanco{
+  background-color: white;
+  border: 1px solid black;
+
+}
+
+
+
 
 
 /* ---------- FOOTER -----------  */

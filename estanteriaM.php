@@ -22,10 +22,11 @@
             <div class="tituloPr">
               <h4>Estante N. 1</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eMg01.jpg" title="">
-                  <img src="img/productos/eMc01.jpg" alt="" />
-               </a>
+            <div class="thumb">
+                 <a class="lb" href="img/productos/eM1.jpg" title="">
+                     <img src="img/productos/eM1.jpg" width="300" alt="maria" />
+                 </a>
+                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
               <h5>Carga Media</h5>
@@ -37,10 +38,11 @@
             <div class="tituloPr">
               <h4>Estante N. 2</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eMg02.jpg" title="">
-                  <img src="img/productos/eMc02.jpg" alt="" />
-               </a>
+            <div class="thumb">
+                 <a class="lb" href="img/productos/eM2.jpg" title="">
+                     <img src="img/productos/eM2.jpg" width="300" alt="maria" />
+                 </a>
+                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
               <h5>Carga Media</h5>
@@ -52,10 +54,11 @@
             <div class="tituloPr">
               <h4>Estante N. 3</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eMg03.jpg" title="">
-                  <img src="img/productos/eMc03.jpg" alt="" />
-               </a>
+            <div class="thumb">
+                 <a class="lb" href="img/productos/eM3.jpg" title="">
+                     <img src="img/productos/eM3.jpg" width="300" alt="maria" />
+                 </a>
+                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
               <h5>Carga Media</h5>
@@ -67,10 +70,11 @@
             <div class="tituloPr">
               <h4>Estante N. 4</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eMg04.jpg" title="">
-                  <img src="img/productos/eMc04.jpg" alt="" />
-               </a>
+            <div class="thumb">
+                 <a class="lb" href="img/productos/eM4.jpg" title="">
+                     <img src="img/productos/eM4.jpg" width="300" alt="maria" />
+                 </a>
+                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
               <h5>Carga pesada</h5>
@@ -82,10 +86,11 @@
             <div class="tituloPr">
               <h4>Estante N. 5</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eMg05.jpg" title="">
-                  <img src="img/productos/eMc05.jpg" alt="" />
-               </a>
+            <div class="thumb">
+                 <a class="lb" href="img/productos/eM5.jpg" title="">
+                     <img src="img/productos/eM5.jpg" width="300" alt="maria" />
+                 </a>
+                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
               <h5>Carga pesada</h5>
@@ -98,10 +103,11 @@
             <div class="tituloPr">
               <h4>Estante N. 6</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eMg06.jpg" title="">
-                  <img src="img/productos/eMc06.jpg" alt="" />
-               </a>
+            <div class="thumb">
+                 <a class="lb" href="img/productos/eM5.jpg" title="">
+                     <img src="img/productos/eM5.jpg" width="300" alt="maria" />
+                 </a>
+                 <div class="sombraP"></div>
             </div>
             <div class="subPr">
               <h5>Carga pesada</h5>

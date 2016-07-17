@@ -19,25 +19,7 @@
         </div>
         <article class="seccionC">
 
-
-          <!-- <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Prueba</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/cCcg.jpg" title="">
-                  <img src="img/productos/cCcg.jpg" width="300" alt="" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>38 fondo x 56 largo  x 31.5 alto capacidad 25 kg</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-
-
-          <div class="wrappPr">
+     <div class="wrappPr">
             <div class="tituloPr">
               <h4>Contenedor México</h4>
             </div>
@@ -48,7 +30,12 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>80 fondo x 80 largo  x 80 alto capacidad 300 kg</p>
+                <p>80 ancho x 80 largo  x 80 alto</p>
+                <p>capacidad 300 kg</p>
+                <div class="colors">
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -62,30 +49,36 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>60 fondo x 83 largo  x 58 alto capacidad 250 kg</p>
+                <p>60 ancho x 83 largo  x 58 alto</p>
+                <p>capacidad 250 kg</p>
             </div>
           </div> <!-- wrappPr  -->
 
 
           <div class="wrappPr">
             <div class="tituloPr">
-              <h4>Contenedor Grande Verde</h4>
+              <h4>Contenedor Grande Cerrado Repro</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/contenedor_grande_verde.jpg" title="">
-                  <img src="img/productos/contenedor_grande_verde.jpg" width="300" alt="" />
+              <a class="lb" href="img/productos/contenedor-cerrado-repro-G.jpg" title="">
+                  <img src="img/productos/contenedor-cerrado-repro-G.jpg" width="300" alt="" />
               </a>
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>42 fondo x 73 largo  x 35 alto capacidad 50 kg</p>
+                <p>42 ancho x 73 largo  x 35 alto</p>
+                <p>capacidad 50 kg</p>
+                <div class="colors">
+                  <div class="color" id="verdeOscuro"></div>
+                  <div class="color" id="guinda"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
 
            <div class="wrappPr">
             <div class="tituloPr">
-              <h4>Contenedor Grande Virgen</h4>
+              <h4>Contenedor Grande Cerrado Virgen</h4>
             </div>
             <div class="wLb">
                <a class="lb" href="img/productos/contg04.jpg" title="">
@@ -93,7 +86,11 @@
                </a>
             </div>
             <div class="subPr">
-                <p>42 fondo x 73 largo  x 35 alto</p>
+                <p>42 ancho x 73 largo  x 35 alto</p>
+                <div class="colors">
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
            
@@ -109,7 +106,12 @@
                  <div class="sombraP"></div>
                </div>
                <div class="subPr">
-                   <p>43 fondo x 73.5 largo  x 22 alto capacidad 25 kg</p>
+                   <p>43 ancho x 73.5 largo  x 22 alto</p>
+                   <p>capacidad 25 kg</p>
+                   <div class="colors">
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
                </div>
            </div> <!-- New // wrappPr  -->
 
@@ -123,26 +125,78 @@
                </a>
             </div>
             <div class="subPr">
-                <p>43 fondo x 73.5 largo  x 22 alto capacidad 25 kg</p>
-            </div>
-          </div> <!-- wrappPr  -->
-           <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Contenedor Ranchero Cerrado</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>38 fondo x 56 largo  x 31.5 alto capacidad 30 kg</p>
+                <p>43 ancho x 73.5 largo  x 22 alto</p>
+                <p>capacidad 25 kg</p>
+                <div class="colors">
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Contenedor Corto Cerrado Repro</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/contenedor-C-cerrado-repro.jpg" title="">
+                  <img src="img/productos/contenedor-C-cerrado-repro.jpg" width="300" alt="Contenedor Corto Cerrado Repro" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>43 Ancho x 73.5 Largo x 22 Alto</p>
+                <p>capacidad 20 kg</p>
+                <div class="colors">
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
+            </div>
+          </div>
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Contenedor Corto Calado Repro</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/contenedor-C-calado-repro.jpg" title="">
+                  <img src="img/productos/contenedor-C-calado-repro.jpg" width="300" alt="Contenedor Corto Calado Repro" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>43 Ancho x 73.5 Largo x 22 Alto</p>
+                <p>capacidad 20 kg</p>
+                <div class="colors">
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
+            </div>
+          </div> 
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Contenedor Maria Cerrado Repro</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/ContenedorVerde.jpg" title="">
+                  <img src="img/productos/ContenedorVerde.jpg" width="300" alt="Contenedor Ranchero Cerrado" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>38 ancho x 56 largo  x 31.5 alto</p>
+                <p>capacidad 30 kg</p>
+                <div class="colors">
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
+            </div>
+          </div>
+
           <div class="wrappPr">
             <div class="tituloPr">
-              <h4>Contenedor Ranchero Calado</h4>
+              <h4>Contenedor Maria Calado Repro</h4>
             </div>
             <div class="wLb">
                <a class="lb" href="img/productos/conMcalg.jpg" title="">
@@ -150,7 +204,12 @@
                </a>
             </div>
             <div class="subPr">
-                <p>38 fondo x 56 largo  x 31.5 alto capacidad 25 kg</p>
+                <p>38 ancho x 56 largo  x 31.5 alto</p>
+                <p>capacidad 25 kg</p>
+                <div class="colors">
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
            <div class="wrappPr">
@@ -163,7 +222,8 @@
                </a>
             </div>
             <div class="subPr">
-                <p>37 fondo x 56 largo  x 33 alto capacidad 45 kg</p>
+                <p>37 ancho x 56 largo  x 33 alto</p>
+                <p>capacidad 45 kg</p>
             </div>
           </div> <!-- wrappPr  -->
            <div class="wrappPr">
@@ -190,7 +250,8 @@
                </a>
             </div>
             <div class="subPr">
-                <p>32.5fondo x 48 largo  x 16 alto capacidad 20 kg</p>
+                <p>32.5ancho x 48 largo  x 16 alto</p>
+                <p>capacidad 20 kg</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -206,7 +267,12 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>33 fondo x 50 largo  x 28 alto capacidad de 25 kg</p>
+                <p>33 ancho x 50 largo  x 28 alto</p>
+                <p>capacidad de 25 kg</p>
+                <div class="colors">
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
            <div class="wrappPr">
@@ -220,7 +286,12 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>33 fondo x 50 largo  x 28 alto capacidad de 25 kg</p>
+                <p>33 ancho x 50 largo  x 28 alto</p>
+                <p>capacidad de 25 kg</p>
+                <div class="colors">
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -236,7 +307,12 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>33 fondo x 50 largo  x 28 alto capacidad de 25 kg</p>
+                <p>33 ancho x 50 largo  x 28 alto</p>
+                <p>capacidad de 25 kg</p>
+                <div class="colors">
+                  <div class="color" id="verdeOscuro"></div>
+                  <div class="color" id="guinda"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -245,13 +321,18 @@
               <h4>Contenedor Walterino Calado Repro</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/contenedorWalterinoCaladoR.jpg" title="">
-                  <img src="img/productos/contenedorWalterinoCaladoR.jpg" width="300" alt="#" />
+              <a class="lb" href="img/productos/contenedor-walterino-calado-R.jpg" title="">
+                  <img src="img/productos/contenedor-walterino-calado-R.jpg" width="300" alt="#" />
               </a>
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>33 fondo x 50 largo  x 28 alto capacidad de 25 kg</p>
+                <p>33 ancho x 50 largo  x 28 alto</p>
+                <p>capacidad de 25 kg</p>
+                <div class="colors">
+                  <div class="color" id="verdeOscuro"></div>
+                  <div class="color" id="guinda"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -265,7 +346,16 @@
                </a>
             </div>
             <div class="subPr">
-                <p>39 fondo x 58 largo  x 19 alto capacidad 28 kg</p>
+                <p>39 ancho x 58 largo  x 19 alto</p>
+                <p>capacidad 28 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -280,7 +370,16 @@
                  <div class="sombraP"></div>
                </div>
                <div class="subPr">
-                   <p>-</p>
+                   <p>40 Ancho x 58 Largo x37 alto</p>
+                   <p>capacidad de 65 Lts</p>
+                   <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
                </div>
            </div> <!-- New // wrappPr  -->
 
@@ -294,12 +393,21 @@
                </a>
             </div>
             <div class="subPr">
-                <p>40 fondo x 58 largo  x 46 alto capacidad 78 litros</p>
+                <p>40 ancho x 58 largo  x 46 alto</p>
+                <p>capacidad 78 litros</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
             <div class="tituloPr">
-              <h4>Contenedor Bisagra Grande Azul</h4>
+              <h4>Contenedor Bisagra Grande</h4>
             </div>
             <div class="wLb">
                <a class="lb" href="img/productos/conBisgg.jpg" title="">
@@ -307,7 +415,13 @@
                </a>
             </div>
             <div class="subPr">
-                <p>40 fondo x 60 largo  x 32 alto capacidad 35 kg</p>
+                <p>40 ancho x 60 largo  x 32 alto</p>
+                <p>capacidad 35 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="gris"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -320,22 +434,33 @@
                </a>
             </div>
             <div class="subPr">
-                <p>39  fondo x 59 largo  x 31 alto capacidad 45 litros</p>
+                <p>39  ancho x 59 largo  x 31 alto</p>
+                <p>capacidad 45 litros</p>
             </div>
           </div> <!-- wrappPr  -->
+
           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Contenedor Bisagra Chico</h4>
             </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/conBisCg.jpg" title="">
-                  <img src="img/productos/conBisCc.jpg" alt="" />
+            <div class="thumb">
+               <a class="lb" href="img/productos/contenedor-bisagra-C.jpg" title="">
+                  <img src="img/productos/contenedor-bisagra-C.jpg" alt="" width="300"/>
                </a>
+               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>30 fondo x 50 largo  x  21 alto capacidad 30 kg</p>
+                <p>30 ancho x 50 largo  x  21 alto</p>
+                <p>capacidad 30 kg</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="gris"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
+
+
           <div class="wrappPr">
             <div class="tituloPr">
               <h4>Contenedor Bisagra Chico Transparente</h4>
@@ -347,7 +472,8 @@
                <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>tapa de bisagra capacidad de 25 kg</p>
+                <p>tapa de bisagra</p>
+                <p>capacidad de 25 kg</p>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -360,7 +486,8 @@
                </a>
             </div>
             <div class="subPr">
-                <p>40 fondo x 60 largo  x 28 alto capacidad 35 kg</p>
+                <p>40 ancho x 60 largo  x 28 alto</p>
+                <p>capacidad 35 kg</p>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -373,7 +500,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p>21 fondo x 35  largo  x 12  alto con tapa</p>
+                <p>21 ancho x 35  largo  x 12  alto con tapa</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -388,7 +515,14 @@
                 <div class="sombraP"></div>
               </div>
               <div class="subPr">
-                  <p>20 fondo x largo x 35.5 X 12 alto con tapa de Grapa</p>
+                  <p>20 ancho x largo x 35.5 X 12 alto con tapa de Grapa</p>
+                  <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
               </div>
           </div> <!-- New // wrappPr  -->
 
@@ -403,7 +537,14 @@
                 <div class="sombraP"></div>
               </div>
               <div class="subPr">
-                  <p>25 fondo x 44 largo x 15.5 alto con tapa de Grapa</p>
+                  <p>25 ancho x 44 largo x 15.5 alto con tapa de Grapa</p>
+                  <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
               </div>
           </div> <!-- New // wrappPr  -->
 
@@ -417,7 +558,14 @@
                </a>
             </div>
             <div class="subPr">
-                <p>30 fondo x 54 largo x 19 alto con tapa de Grapa</p>
+                <p>30 ancho x 54 largo x 19 alto con tapa de Grapa</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -433,6 +581,13 @@
             </div>
             <div class="subPr">
                 <p>40.5 Ancho x 59.5 Largo x 17 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -448,6 +603,13 @@
             </div>
             <div class="subPr">
                 <p>40.5 Ancho x 59.5 Largo x 31 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -463,7 +625,16 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>39 fondo x 54 largo  x 25 alto C/Ruedas y Tapa de grapa capacidad 36 litros</p>
+                <p>39 ancho x 54 largo  x 25 alto C/Ruedas y Tapa de grapa</p>
+                <p>capacidad 36 litros</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -477,7 +648,16 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>39 fondo x 54 largo  x 31 alto C/Ruedas y Tapa de grapa capacidad 48 litros</p>
+                <p>39 ancho x 54 largo  x 31 alto C/Ruedas y Tapa de grapa</p>
+                <p>capacidad 48 litros</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           
@@ -495,6 +675,15 @@
               </div>
               <div class="subPr">
                   <p>18 Ancho x29 Largo x11 Alto</p>
+                  <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
               </div>
           </div> <!-- New // wrappPr  -->
 
@@ -510,6 +699,15 @@
               </div>
               <div class="subPr">
                   <p>23 Ancho x 36 Largo x 13 Alto</p>
+                  <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                  </div>
               </div>
           </div> <!-- New // wrappPr  -->
 
@@ -525,6 +723,16 @@
             </div>
             <div class="subPr">
                 <p>24 Ancho x 31 Largo x 29 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -540,6 +748,16 @@
               </div>
               <div class="subPr">
                   <p>31 Ancho x 43 Largo X 20 Alto</p>
+                  <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
               </div>
           </div> <!-- New // wrappPr  -->
 
@@ -555,6 +773,16 @@
               </div>
               <div class="subPr">
                   <p>45 Ancho x 24 Largo x 30 Alto</p>
+                  <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
               </div>
           </div> <!-- New // wrappPr  -->
 
@@ -570,6 +798,16 @@
               </div>
               <div class="subPr">
                   <p>39 Ancho x 54 Largo x 27.5 Alto</p>
+                  <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
               </div>
           </div> <!-- New // wrappPr  -->
 
@@ -601,6 +839,11 @@
             </div>
             <div class="subPr">
                 <p>27 Ancho x 37 Largo x 12.3 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -616,6 +859,12 @@
             </div>
             <div class="subPr">
                 <p>27 Ancho x 37 Largo x 15.5 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
+
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -631,6 +880,11 @@
             </div>
             <div class="subPr">
                 <p>35 Ancho x 48 Largo x 14.5 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -646,6 +900,11 @@
             </div>
             <div class="subPr">
                 <p>35 Ancho x 48 Largo x 20.5 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -661,6 +920,11 @@
             </div>
             <div class="subPr">
                 <p>35 Ancho x 48 Largo x 27 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -676,6 +940,11 @@
             </div>
             <div class="subPr">
                 <p>60 Ancho x 40 Largo x 18.5 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -691,6 +960,11 @@
             </div>
             <div class="subPr">
                 <p>60 Ancho x 40 Largo x 25.5 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -706,6 +980,11 @@
             </div>
             <div class="subPr">
                 <p>60 Ancho x 40 Largo x 32 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -721,6 +1000,11 @@
             </div>
             <div class="subPr">
                 <p>39.5 Ancho x 51 Largo x 32.5 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rojo"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 

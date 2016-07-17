@@ -31,6 +31,9 @@
               <a href="vitrinas.php" alt="almacenamiento" class="item-gde">
                   <figure id="tVitrinas"><figcaption>Vitrinas</figcaption></figure>
               </a>
+              <a href="escaleras.php" alt="escaleras" class="item-gde">
+                  <figure id="tEscaleras"><figcaption>Escaleras</figcaption></figure>
+              </a>
             </article>
 
       </section>

@@ -7,7 +7,7 @@
     <?php include 'includes/head.html'; ?> <!--aqui esta el jquery-->
     </head>  
 
-    <?php include 'includes/popUp.html'; ?><!--Initial Pop Up -->
+    <!-- <?php include 'includes/popUp.html'; ?> -->
 
   <body class="gwd-body">
     <div id="preload"></div>
@@ -19,35 +19,34 @@
 
           
       <section class="seccion-a">
-        <h1 class="titulo-a">¿Por qué Taner?</h1>
-        <article class="cuadros">
-        <div href="#">
-          <figure>
-            <img class="iconoa" src="img/iconofabrica.png" alt="fabricantes" height="100px"/>
-          </figure>
-          <figcaption><h2>Somos Fabricantes</h2></figcaption>
-        </div>
-        </article>
-        <article class="cuadros">
-        <div href="#">
-          <figure>
-            <img class="iconoa" src="img/iconoentrega.png" alt="fabricantes" height="100px"/>
-            
-          </figure>
-          <figcaption><h2>Entrega Inmediata</h2></figcaption>
-        </div>
-        </article>
-        <article class="cuadros">
-        <div href="#">
-          <figure>
-            <img class="iconoa" src="img/iconocalidad.png" alt="fabricantes" height="100px"/>
-            
-          </figure>
-          <figcaption><h2>Calidad Insuperable</h2></figcaption>
-        </div>
-        </article>
+          <div id="pleca-top">
+            <div id="arrow-pleca"></div>
+          </div>
+          <div id="porque">¿Porque TANER?</div>
+          <div id="envolvente-cuadros">
+          <div class="cuadro" id="fabrica">
+             <div class="icon" id="icon-fabricantes"></div>
+             <div class="titulo-C" id="titulo-fabrica">Somos Fabricantes</div>
+             <div class="txt-resaltado">Tienes necesidades <br>especiﬁcas para tu almacenaje?</div>
+             <div class="contenido-C">Nosotros somos la solución ya que el ser fabricantes nos permite ofrecer propuestas diferentes y soluciones efectivas para que organices bien tus espacios, tal y como lo visualizas.</div>
+           </div>  
+
+           <div class="cuadro" id="entrega">
+             <div class="icon" id="icon-entrega"></div>
+             <div class="titulo-C" id="titulo-entrega">Entrega Inmediata</div>
+             <div class="contenido-C">Nosotros entregamos hasta tu domicilio *sin cargo alguno en área Metropolitana  sujeto a nuestro mínimo de compra, pregunta por nuestro servicio y no esperes mas!</div>
+             <div class="txt-resaltado">* Aplican Restricciones</div>  
+           </div>
+
+           <div class="cuadro" id="calidad">
+             <div class="icon" id="icon-calidad"></div>
+             <div class="titulo-C" id="titulo-calidad">Calidad Insuperable</div>
+             <div class="contenido-C">En artículos metálicos tenemos la mejor calidad siendo fabricada en lamina de primera en todos nuestros artículos, así como materiales vírgenes en nuestros artículos plástico <b>Estas características nos diferencian haciendo que todos nuestros artículos tengan mayor durabilidad.</b></div>
+           </div>
+           </div>  
+
       </section>
-      <?php include 'includes/footer.html'; ?>
     </div>  <!-- contenedor -->
+      <?php include 'includes/footer.html'; ?>
   </body>
 </html>

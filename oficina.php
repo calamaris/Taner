@@ -16,9 +16,6 @@
                 <h1 class="titulo-b">Oficína</h1>
         </div> 
          <article class="productos">
-              <a href="escritorios.php" alt="escritorio secretarial" class="item-gde">
-                  <figure id="tEscritorios"><figcaption>Escritorio Secretarial</figcaption></figure>
-              </a>
               <a href="archiveros.php" alt="archiveros" class="item-gde">
                   <figure id="tArchiveros"><figcaption>Archiveros</figcaption></figure>
               </a>

@@ -30,7 +30,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>-</p>
+                <p>15 Ancho X 25 Largo X 20 Alto </p>
             </div>
           </div> <!-- New // wrappPr  -->
 
@@ -45,7 +45,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p>15 fondo x 41.5 largo x 27 alto <br> caja visible de 14.7 fondo x 7.4 largo x 4.7 alto</p>
+                <p>15 ancho x 41.5 largo x 27 alto <br> caja visible de 14.7 ancho x 7.4 largo x 4.7 alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -59,7 +59,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p>15 fondo x 41.5 largo x 27 alto <br> caja visible de 14.7 fondo x 7.4 largo x 4.7 alto</p>
+                <p>15 ancho x 41.5 largo x 27 alto <br> caja visible de 14.7 ancho x 7.4 largo x 4.7 alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -74,7 +74,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>42 Ancho x 16 Largo x 41 Alto</p>
+                <p>15 Ancho X 42 Largo X 41 Alto Caja visible de 14.7 Ancho x 7.4 Largo x 4.7 Alto</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -89,7 +89,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>42 Ancho x 16 Largo x 53.5 Alto</p>
+                <p>15 Ancho X 42 Largo x 54 Alto Caja visible de 14.7 Ancho x 7.4 Largo x 4.7 Alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -103,7 +103,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p>15 fondo x 41.5 largo x 66 alto <br> caja visible de 14.7 fondo x 7.4 largo x 4.7 alto</p>
+                <p>15 ancho x 41.5 largo x 66 alto <br> caja visible de 14.7 ancho x 7.4 largo x 4.7 alto</p>
             </div>
           </div> <!-- wrappPr  -->
           

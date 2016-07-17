@@ -31,7 +31,17 @@
             </div>
             <div class="subPr">
                 <p>53 Ancho x 50 Ancho x 64 Alto</p>
+                <p>Capacidad de 75 Lts.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
+
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
           <div class="wrappPr"> 
@@ -45,7 +55,16 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>53 Ancho x 50 Ancho x 64 Alto</p>
+                <p>50 Ancho x 53 Largo x 74 Alto</p>
+                <p>Capacidad de 75 Lts.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -60,7 +79,16 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>50 fondo x 53 largo  x 81 alto capacidad 100 litros</p>
+                <p>50 ancho x 53 largo  x 81 alto</p>
+                <p>capacidad 100 litros</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -75,7 +103,16 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>50 fondo x 53 largo  x 96 alto capacidad 100 litros</p>
+                <p>50 ancho x 53 largo  x 96 alto</p>
+                <p>capacidad 100 litros</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -89,7 +126,16 @@
                </a>
             </div>
             <div class="subPr">
-                <p>52 fondo x 61 largo  x 90 alto capacidad 125 litros</p>
+                <p>52 ancho x 61 largo  x 90 alto </p>
+                <p>capacidad 125 litros</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -104,7 +150,15 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>55 Ancho x 48 Largo x 71 Alto</p>
+                <p>46 Ancho x 46 Largo x 89 Alto </p>
+                <p>Capcidad de 90 Lts.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -118,7 +172,16 @@
                </a>
             </div>
             <div class="subPr">
-                <p>56 fondo x 62 largo  x 80 alto capacidad 120 litros</p>
+                <p>56 ancho x 62 largo  x 80 alto</p>
+                <p>Capacidad de 120 Lts.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -133,7 +196,19 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>50 Ancho x 48 Largo x 71 Alto</p>
+                <p>40 Ancho x 40 Largo x 56 Alto </p>
+                <p>Capacidad 46 Lts.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="cafe"></div>
+                  <div class="color" id="blanco"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -148,7 +223,19 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>51 Ancho x 48 Largo x 71 Alto</p>
+                <p>40 Ancho x 40 Largo x 56 Alto </p>
+                <p>Capacidad de 46 Lts.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="cafe"></div>
+                  <div class="color" id="blanco"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="gris"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -163,7 +250,18 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>52 Ancho x 48 Largo x 71 Alto</p>
+                <p>37 Diametro x 70 Alto</p>
+                <p>Capacidad de 35 Lts.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="carne"></div>
+                  <div class="color" id="cafe"></div>
+                  <div class="color" id="blanco"></div>
+                  <div class="color" id="negro"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -177,7 +275,18 @@
                </a>
             </div>
             <div class="subPr">
-                <p>29 fondo x 29 largo  x 58 alto capacidad 20 litros</p>
+                <p>29 ancho x 29 largo  x 58 alto capacidad 20 litros</p>
+                <p>Capacidad de 20 Lts.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="gris"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
+
             </div>
           </div> <!-- wrappPr  -->
 
@@ -192,7 +301,72 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>54 Ancho x 48 Largo x 71 Alto</p>
+                <p>19 Ancho x 19.5 Largo x 27 Alto </p>
+                <p>Capacidad de 6 Lts.</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="gris"></div>
+                  <div class="color" id="cafe"></div>
+                  <div class="color" id="blanco"></div>
+                  <div class="color" id="negro"></div>
+                </div>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr">
+            <div class="tituloPr">
+              <h4>Bote con Pedal Grande</h4>
+            </div>
+            <div class="wLb">
+               <a class="lb" href="img/productos/boteCpg.jpg" title="">
+                  <img src="img/productos/boteCpc.jpg" alt="" />
+               </a>
+            </div>
+            <div class="subPr">
+                <p>32 ancho x 33 largo  x 42 alto</p>
+                <p>capacidad 21 litros</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
+
+            </div>
+          </div> <!-- wrappPr  -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Bote con pedal chico 8 lts </h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/Bote_con_Pedal_Chico_8_lts.jpg" title="">
+                  <img src="img/productos/Bote_con_Pedal_Chico_8_lts.jpg" width="300" alt="Bote_con_Pedal_Chico_8_lts" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>25 Diametro x 30 Alto </p>
+                <p>Capacidad de 7.8 Lts</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="gris"></div>
+                  <div class="color" id="cafe"></div>
+                  <div class="color" id="blanco"></div>
+                  <div class="color" id="negro"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -208,6 +382,10 @@
             </div>
             <div class="subPr">
                 <p>16 Ancho x 15.5 Largo x 25 Alto</p>
+                <p>Capacidad de 3 Lts</p>
+                <div class="colors">
+                  <div class="color" id="negro"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -223,6 +401,10 @@
             </div>
             <div class="subPr">
                 <p>19 Ancho x 18 Largo x 33 Alto</p>
+                <p>Capacidad de 6 Lts</p>
+                <div class="colors">
+                  <div class="color" id="negro"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -238,6 +420,10 @@
             </div>
             <div class="subPr">
                 <p>25 Ancho x 24 Largo x 44 Alto</p>
+                <p>Capacidad de 12.5 Lts</p>
+                <div class="colors">
+                  <div class="color" id="negro"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -253,35 +439,33 @@
             </div>
             <div class="subPr">
                 <p>30 Ancho x 29 Largo x 58 Alto</p>
+                <p>Capacidad de 25 Lts</p>
+                <div class="colors">
+                  <div class="color" id="negro"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
-          <div class="wrappPr">
+           <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Bote con Pedal Grande</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/boteCpg.jpg" title="">
-                  <img src="img/productos/boteCpc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>32 fondo x 33 largo  x 42 alto capacidad 21 litros</p>
-            </div>
-          </div> <!-- wrappPr  -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Bote con pedal chico 8 lts </h4>
+              <h4>Bote Cuadrado Calado</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/Bote_con_Pedal_Chico_8_lts.jpg" title="">
-                  <img src="img/productos/Bote_con_Pedal_Chico_8_lts.jpg" width="300" alt="Bote_con_Pedal_Chico_8_lts" />
+              <a class="lb" href="img/productos/bote_cuadrado_calado.jpg" title="">
+                  <img src="img/productos/bote_cuadrado_calado.jpg" width="300" alt="bote_cuadrado_calado" />
               </a>
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>53 Ancho x 48 Largo x 71 Alto</p>
+                <p>45 Ancho x 45 Largo x 63 Alto</p>
+                <p>Capacidad de 20 kg.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -296,53 +480,17 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>48 Ancho x 48 Largo x 71 Alto</p>
+                <p>48 Anchox 48 Largo x 71 Alto</p>
+                <p>Capacidad de 20 kg.</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="naranja"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
-          
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Bote Cuadrado Calado</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/bote_cuadrado_calado.jpg" title="">
-                  <img src="img/productos/bote_cuadrado_calado.jpg" width="300" alt="bote_cuadrado_calado" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>49 Ancho x 48 Largo x 71 Alto</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Cesto Papelero</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/cestoPg.jpg" title="">
-                  <img src="img/productos/cestoPc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- wrappPr  -->
-
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Cesto calado</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/cestoCg.jpg" title="">
-                  <img src="img/productos/cestoCc.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-                <p>-</p>
-            </div>
-          </div> <!-- wrappPr  -->
 
           <div class="wrappPr"> 
             <div class="tituloPr">
@@ -355,7 +503,45 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>37 Diametro X 56 Alto</p>
+                <p>23.5 Ancho x 32 Largo x 33 Alto</p>
+                <p>Capacidad de 11 Lts</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="gris"></div>
+                  <div class="color" id="cafe"></div>
+                  <div class="color" id="blanco"></div>
+                  <div class="color" id="negro"></div>
+                </div>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Carro con Canasta</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/carro-canasta.jpg" title="">
+                  <img src="img/productos/carro-canasta.jpg" width="300" alt="Carro con Canasta" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr-scroll">
+                <p>Capacidad de 20 Kg.</p>
+                <p>Carro</p>
+                <div class="colors">
+                  <div class="color" id="gris"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
+                <p>Medida de Carro 50 Ancho x 50 Largo x 78 Alto  20 kg.</p>
+                <p>Canasta</p>
+                <div class="colors">
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="gris"></div>
+                </div>
+                <p>Medida de Canasta 35 Ancho x 50 Largo x 25 Alto  15 Kg.</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 

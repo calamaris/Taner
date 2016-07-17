@@ -29,7 +29,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>20 fondo x 85largo x 2.20 alto con 175 Gavetas Plásticas N. 2 de 7.5x12x19</p>
+                <p>20 ancho x 85largo x 2.20 alto con 168 Gavetas Plásticas N. 2 de 7.5x12x19</p>
                 <h5>Este producto se puede fabricar según sus necesidades</h5>
             </div>
           </div> <!-- wrappPr  -->
@@ -44,7 +44,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>30 fondo x 85 largo x 2.20 alto con  65 Gavetas Plásticas N. 3 de 27.5x16x13</p>
+                <p>30 ancho x 85 largo x 2.20 alto con  65 Gavetas Plásticas N. 3 de 27.5x16x13</p>
                 <h5>Este producto se puede fabricar según sus necesidades</h5>          
             </div>
           </div> <!-- wrappPr  -->
@@ -60,7 +60,7 @@
             </div>
             <div class="subPr">
               <h5>Gavetero con gaveta</h5>
-                <p>45 fondo x 85 largo x 2.20 alto con  27 Gavetas Plásticas N. 4 de 37.5x23.2x18</p>
+                <p>45 ancho x 85 largo x 2.20 alto con  27 Gavetas Plásticas N. 4 de 37.5x23.2x18</p>
                 <h5>Este producto se puede fabricar según sus necesidades</h5>        
             </div>
           </div> <!-- wrappPr  -->
@@ -76,7 +76,7 @@
             </div>
             <div class="subPr">
               <h5>Gavetero con gaveta</h5>
-                <p>60 fondo x 85 largo x 2.20 alto con 18  Gavetas Plásticas N. 6 de 37.5x42x18</p>
+                <p>60 ancho x 85 largo x 2.20 alto con 18  Gavetas Plásticas N. 6 de 37.5x42x18</p>
                 <h5>Este producto se puede fabricar según sus necesidades</h5>        
             </div>
           </div> <!-- wrappPr  -->
@@ -92,11 +92,11 @@
             </div>
             <div class="subPr">
               <h5>Gavetero con gaveta</h5>
-                <p>60 fondo x 85 largo x 2.20 alto con 16 Gavetas Plásticas N. 5 de 50x31x20</p>
+                <p>60 ancho x 85 largo x 2.20 alto con 16 Gavetas Plásticas N. 5 de 50x31x20</p>
                 <h5>Este producto se puede fabricar según sus necesidades</h5>        
             </div>
           </div> <!-- wrappPr  -->
-          <div class="wrappPr">
+         <!--  <div class="wrappPr">
             <div class="tituloPr">
               <h4>Gavetero Plastico N. 6</h4>
             </div>
@@ -107,30 +107,30 @@
             </div>
             <div class="subPr">
               <h5>Gavetero con gaveta</h5>
-                <p>45 fondo X 85 largo X1.22 alto con 10 Gavetas Plasticas N. 6 de 37.5 fondox 42 largo x 18 alto</p>
+                <p>45 ancho X 85 largo X1.22 alto con 10 Gavetas Plasticas N. 6 de 37.5 anchox 42 largo x 18 alto</p>
                 <h5>Este producto se puede fabricar según sus necesidades</h5>        
             </div>
-          </div> <!-- wrappPr  -->
+          </div> --> <!-- wrappPr  -->
 
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>gavetero plástico N. 7</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/gaveteroPlasticoNo7.jpg" title="">
-                  <img src="img/productos/gaveteroPlasticoNo7.jpg" width="300" alt="Gavetero_Plastico_N.7" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p>20 Ancho x 85 Largo x 1.22 Alto  con 84 Gavetas Plasticas N. 2 de 7.5x12x19</p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
+          <!-- <div class="wrappPr"> 
+             <div class="tituloPr">
+               <h4>gavetero plástico N. 7</h4>
+             </div>
+             <div class="thumb">
+               <a class="lb" href="img/productos/gaveteroPlasticoNo7.jpg" title="">
+                   <img src="img/productos/gaveteroPlasticoNo7.jpg" width="300" alt="Gavetero_Plastico_N.7" />
+               </a>
+               <div class="sombraP"></div>
+             </div>
+             <div class="subPr">
+                 <p>20 Ancho x 85 Largo x 1.22 Alto  con 84 Gavetas Plasticas N. 2 de 7.5x12x19</p>
+             </div>
+           </div> --> <!-- FIN NUEVO CONTENEDOR -->
 
           
           <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>gavetero plástico N. 9</h4>
+              <h4>gavetero plástico N. 6</h4>
             </div>
             <div class="thumb">
               <a class="lb" href="img/productos/Gavetero_Plastico_N.9.jpg" title="">
@@ -145,7 +145,7 @@
 
           <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>gavetero plástico N. 10</h4>
+              <h4>gavetero plástico N. 7</h4>
             </div>
             <div class="thumb">
               <a class="lb" href="img/productos/Gavetero_Plastico_N.10.jpg" title="">
@@ -160,7 +160,7 @@
 
           <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>gavetero plástico N. 11</h4>
+              <h4>gavetero plástico N. 8</h4>
             </div>
             <div class="thumb">
               <a class="lb" href="img/productos/Gavetero_Plastico_N.11.jpg" title="">

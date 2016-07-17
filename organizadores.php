@@ -107,6 +107,14 @@
             </div>
             <div class="subPr">
                 <p>20 Ancho x 16 Largo x 25 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -122,6 +130,14 @@
             </div>
             <div class="subPr">
                 <p>20 Ancho x 16 Largo x 30 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="verde"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -137,6 +153,15 @@
             </div>
             <div class="subPr">
                 <p>21 fondo x 16 largo x 26  alto</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -152,6 +177,15 @@
             </div>
             <div class="subPr">
                 <p>16 Ancho x 20 Largo x 32 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -167,6 +201,14 @@
             </div>
             <div class="subPr">
                 <p>34 Ancho x 25.5 Largo x 27 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -182,6 +224,14 @@
             </div>
             <div class="subPr">
                 <p>34 Ancho x 25.5 Largo x 53 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="blanco"></div>
+                  <div class="color" id="negro"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -196,6 +246,14 @@
             </div>
             <div class="subPr">
                 <p>32 fondo x 36  largo x 62 alto</p>
+                <div class="colors">
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -210,6 +268,14 @@
             </div>
             <div class="subPr">
                 <p>39 fondo x 55 largo x 62  alto</p>
+                <div class="colors">
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="naranja"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="negro"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="blanco"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -225,6 +291,14 @@
             </div>
             <div class="subPr">
                 <p> 45.5 Ancho x 40.5 Largo x 1.00 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="blanco"></div>
+                  <div class="color" id="negro"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -240,6 +314,15 @@
             </div>
             <div class="subPr">
                 <p>60 Ancho x  41 Largo x 84 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azulClaro"></div>
+                  <div class="color" id="amarillo"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="azulCielo"></div>
+                  <div class="color" id="rosa"></div>
+                  <div class="color" id="morado"></div>
+                  <div class="color" id="negro"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -270,6 +353,11 @@
             </div>
             <div class="subPr">
                 <p>40 Ancho x 62 Largo x 1.10 Alto</p>
+                <div class="colors">
+                  <div class="color" id="azu"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                </div>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -285,6 +373,11 @@
             </div>
             <div class="subPr">
                 <p>40 Ancho x 62 Largo x 1.10 Alto Con 15 Gavetas Plasticas N. 3 de 13x16x27.5</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -300,6 +393,11 @@
             </div>
             <div class="subPr">
                 <p>40 Ancho x 62 Largo x 1.10 Alto Con 5 Gavetas Plasticas N. 6 de 37.5x42x18</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -315,6 +413,11 @@
             </div>
             <div class="subPr">
                 <p>40 Ancho x 62 Largo x 1.10 Alto Con 10 Gavetas Plasticas N. 4 de 18x23x37.5</p>
+                <div class="colors">
+                  <div class="color" id="azul"></div>
+                  <div class="color" id="rojo"></div>
+                  <div class="color" id="rosa"></div>
+                </div>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 

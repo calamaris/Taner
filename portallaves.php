@@ -28,7 +28,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p>5 fondo x 29 largo x 24.5 alto</p>
+                <p>5 ancho x 29 largo x 24.5 alto</p>
             </div>
           </div> <!-- wrappPr  -->
           
@@ -42,7 +42,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p>5 fondo x 28 largo x 36 alto</p>
+                <p>5 ancho x 28 largo x 36 alto</p>
             </div>
           </div> <!-- wrappPr  -->
           <div class="wrappPr">
@@ -55,7 +55,7 @@
                </a>
             </div>
             <div class="subPr">
-                <p>5 fondo x 33 largo x 38 alto</p>
+                <p>5 ancho x 33 largo x 38 alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
@@ -85,7 +85,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>6 fondo x 33 largo x 34 alto</p>
+                <p>6 ancho x 33 largo x 34 alto</p>
             </div>
           </div> <!-- wrappPr  -->
            <div class="wrappPr">
@@ -99,7 +99,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>6 fondo x 40 largo x 55 alto</p>
+                <p>6 ancho x 40 largo x 55 alto</p>
             </div>
           </div> <!-- wrappPr  -->
 
