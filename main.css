@@ -928,6 +928,18 @@ header p a{
   background-position:  bottom left;
 }/* -- */
 
+#btn-escalera-convertible {
+  background: url(img/titulos/convertible-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  top left;
+}
+
+#btn-escalera-convertible:hover {
+  background: url(img/titulos/convertible-fondo.jpg) no-repeat;
+  background-size: 600px;
+  background-position:  bottom left;
+}/* -- */
+
 /*   ----- PRODUCTOS  ------   */
 
 .seccionC {

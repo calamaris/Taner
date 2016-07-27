@@ -31,133 +31,134 @@
                 <p>-</p>
             </div>
           </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Vitrina de Pared</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-              <h5>Vitrina</h5>
-                <p>2.00m x 1.00m x 50cms</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Aparador Central</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-              <h5>Vitrina</h5>
-                <p>2.00m x 2.00m x 50cms</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Vitrina Refaccionaria</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-              <h5>Vitrina</h5>
-                <p>1.00m x 45cms x 95cms</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Vitrina Dulcera</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-              <h5>Vitrina</h5>
-                <p>2.00m x 50cms x 95cms</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Vitrina Cajonera</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-              <h5>Vitrina</h5>
-                <p>2.00m x 50cms x 95cms</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Vitrina Lapicera</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-              <h5>Vitrina</h5>
-                <p>2.00m x 50cms x 95cms</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Vitrina Mixta</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-              <h5>Vitrina</h5>
-                <p>2.00m x 50cms x 95cms</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Vitrina Cristal</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-              <h5>Vitrina</h5>
-                <p>2.00m x 45cms x 95cms</p>
-            </div>
-          </div> <!-- wrappPr  -->
-          <div class="wrappPr">
-            <div class="tituloPr">
-              <h4>Vitrina Refaccionaria con lámina antiderrapante</h4>
-            </div>
-            <div class="wLb">
-               <a class="lb" href="img/productos/eM-p1.jpg" title="">
-                  <img src="img/productos/eMp1-thumb.jpg" alt="" />
-               </a>
-            </div>
-            <div class="subPr">
-              <h5>Vitrina</h5>
-                <p>2.00m x 95cms x 50cms</p>
-            </div>
-          </div> <!-- wrappPr  -->
 
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Vitrina Refraccionaria de Formaica de 2.00 MTS</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/vitrina-refraccionaria-formaica.jpg" title="">
+                  <img src="img/productos/vitrina-refraccionaria-formaica.jpg" width="300" alt="Vitrina Refraccionaria de Formaica de 2.00 MTS" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50X2.00X95</p>
+                <p></p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Vitrina Refraccionaria de Cristal de 2.00 MTS</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/vitrina-refraccionaria-cristal.jpg" title="">
+                  <img src="img/productos/vitrina-refraccionaria-cristal.jpg" width="300" alt="Vitrina Refraccionaria de Cristal de 2.00 MTS" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50X2.00X95</p>
+                <p></p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Vitrina Mixta de Formaica de 2.00 MTS</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/vitrina-mixta-formaica.jpg" title="">
+                  <img src="img/productos/vitrina-mixta-formaica.jpg" width="300" alt="Vitrina Mixta de Formaica de 2.00 MTS" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50X2.00X95</p>
+                <p></p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Vitrina Mixta de Cristal de 2.00 MTS</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/vitrina-mixta-cristal.jpg" title="">
+                  <img src="img/productos/vitrina-mixta-cristal.jpg" width="300" alt="Vitrina Mixta de Cristal de 2.00 MTS" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50X2.00X95</p>
+                <p></p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Vitrina Dulcera de Formaica de 2.00 MTS</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/vitrina-dulcera-formaica.jpg" title="">
+                  <img src="img/productos/vitrina-dulcera-formaica.jpg" width="300" alt="Vitrina Dulcera de Formaica de 2.00 MTS" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50X2.00X95</p>
+                <p></p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Vitrina Dulcera de Cristal de 2.00 MTS</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/vitrina-dulcera-cristal.jpg" title="">
+                  <img src="img/productos/vitrina-dulcera-cristal.jpg" width="300" alt="Vitrina Dulcera de Cristal de 2.00 MTS" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50X2.00X95</p>
+                <p></p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Vitrina Exhibidor</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/vitrina-exhibidor.jpg" title="">
+                  <img src="img/productos/vitrina-exhibidor.jpg" width="300" alt="Vitrina Exhibidor" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p></p>
+                <p></p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Aparador de Pared</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/aparador-pared.jpg" title="">
+                  <img src="img/productos/aparador-pared.jpg" width="300" alt="Aparador de Pared" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50X2.00X2.00</p>
+                <p></p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
 
         </article>  
         

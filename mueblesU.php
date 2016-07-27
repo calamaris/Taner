@@ -28,14 +28,14 @@
                </a>
             </div>
             <div class="subPr">
-                <p>50 ancho x 80 largo x 1.80 alto fabricado en lamina cal. 24 refuerzos cal. 20</p>
+                <p>50 ancho x 90 largo x 1.80 alto fabricado en lamina cal. 24 refuerzos cal. 20</p>
               <h5>Este producto se puede fabricar según sus necesidades</h5>
             </div>
           </div> <!-- wrappPr  -->
 
          <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Mueble Univesal con Gavetas Plasticas</h4>
+              <h4>Mueble Universal con Gavetas Plasticas</h4>
             </div>
             <div class="thumb">
               <a class="lb" href="img/productos/muebleUgavetas.jpg" title="">
@@ -44,7 +44,7 @@
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p>50 Ancho x 80 Largo x 1.80 Alto</p>
+                <p>50 Ancho x 90 Largo x 1.80 Alto</p>
                 <p>Componentes = 21 Gavetas N. 2, 20 Gavetas N. 3 y 6 Gavetas N. 6</p>
                 <div class="colors">
                   <div class="color" id="azul"></div>
@@ -52,6 +52,38 @@
                   <div class="color" id="rojo"></div>
                   <div class="color" id="gris"></div>
                 </div>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Mueble Universal Visible</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/muebleuniversal-visible.jpg" title="">
+                  <img src="img/productos/muebleuniversal-visible.jpg" width="300" alt="Mueble Universal Visible" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50 Ancho x 90 Largo x 1.80 Alto</p>
+                <p></p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
+
+          <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Base Movible para Mueble Universal</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/muebleuniversal-base-movible.jpg" title="">
+                  <img src="img/productos/muebleuniversal-base-movible.jpg" width="300" alt="Base Movible para Mueble Universal" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>50x90x10</p>
+                <p></p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
       

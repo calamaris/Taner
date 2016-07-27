@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head data-gwd-animation-mode="quickMode">
-    <title>Extensión Fibra de Vidrio</title>
+    <title>Extensión</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <?php include 'includes/csss.html'; ?> 
     <?php include 'includes/head.html'; ?> <!--aqui esta el jquery-->
@@ -14,10 +14,26 @@
       <section class="seccion-b">
         <div class="encabezado"> <!--navegador en productos -->
                 <h3 >
-                  <a class="nav-pl1" href="productos.php">Productos ></a><a class="nav-pl1" href="escaleras.php"> Escaleras ></a><a class="nav-pl1 navActive" href="archiveros.php"> Extensión Fibra de Vidrio</a></h3>
-                <h1 class="titulo-b">Extensión Fibra de Vidrio</h1>
+                  <a class="nav-pl1" href="productos.php">Productos ></a><a class="nav-pl1" href="escaleras.php"> Escaleras ></a><a class="nav-pl1 navActive" href="escalera-fibra.php"> Extensión</a></h3>
+                <h1 class="titulo-b">Extensión</h1>
         </div>
          <article class="seccionC">
+
+           <div class="wrappPr">
+           <div class="tituloPr">
+              <h4>Escalera Extensión de Aluminio 24 Escalones</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/E-extencion-aluminio-24.jpg" title="">
+                  <img src="img/productos/E-extencion-aluminio-24.jpg" width="300" alt="Escalera Extensión de Aluminio 24 Escalones" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>Traslape 0.91 (m) Altura máxima de Trabajo 6.40 (m) Altura Máxima 7.31  Peso 18.4 kg.</p>
+                <p>Capacidad 102 kg</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
 
           <div class="wrappPr"> 
             <div class="tituloPr">

@@ -17,19 +17,22 @@
         </div> 
          <article class="productos">
               <a href="escalera-basica.php" alt="escaleras basicas" class="item-gde">
-                  <figure id="btn-escalera-basica"><figcaption>Basicas</figcaption></figure>
+                  <figure id="btn-escalera-basica"><figcaption>Básicas</figcaption></figure>
               </a>
-              <a href="escalera-aluminio.php" alt="escaleras rectas de aluminio" class="item-gde">
-                  <figure id="btn-escalera-aluminio"><figcaption>Rectas de aluminio</figcaption></figure>
+              <a href="escalera-aluminio.php" alt="escaleras rectas" class="item-gde">
+                  <figure id="btn-escalera-aluminio"><figcaption>Rectas</figcaption></figure>
               </a>
               <a href="escalera-diablos.php" alt="dablos" class="item-gde">
                   <figure id="btn-escalera-diablos"><figcaption>Diablos</figcaption></figure>
               </a>
               <a href="escalera-domesticas.php" alt="escaleras domesticas" class="item-gde">
-                  <figure id="btn-escalera-domesticas"><figcaption>Domesticas</figcaption></figure>
+                  <figure id="btn-escalera-domesticas"><figcaption>Domésticas</figcaption></figure>
               </a>
-              <a href="escalera-fibra.php" alt="escaleras extensión fibre de vidrio" class="item-gde">
-                  <figure id="btn-escalera-fibra"><figcaption>Extensión fibra de vidrio</figcaption></figure>
+              <a href="escalera-fibra.php" alt="escaleras extensión" class="item-gde">
+                  <figure id="btn-escalera-fibra"><figcaption>Extensión</figcaption></figure>
+              </a>
+              <a href="escalera-convertible.php" alt="escaleras convertible" class="item-gde">
+                  <figure id="btn-escalera-convertible"><figcaption>Convertible</figcaption></figure>
               </a>
         </article>
       </section>

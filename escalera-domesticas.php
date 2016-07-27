@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head data-gwd-animation-mode="quickMode">
-    <title>Domesticas</title>
+    <title>Domésticas</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <?php include 'includes/csss.html'; ?> 
     <?php include 'includes/head.html'; ?> <!--aqui esta el jquery-->
@@ -14,14 +14,14 @@
       <section class="seccion-b">
         <div class="encabezado"> <!--navegador en productos -->
                 <h3 >
-                  <a class="nav-pl1" href="productos.php">Productos ></a><a class="nav-pl1" href="escaleras.php"> Escaleras ></a><a class="nav-pl1 navActive" href="archiveros.php"> Domesticas</a></h3>
-                <h1 class="titulo-b">Domesticas</h1>
+                  <a class="nav-pl1" href="productos.php">Productos ></a><a class="nav-pl1" href="escaleras.php"> Escaleras ></a><a class="nav-pl1 navActive" href="escalera-domesticas.php"> Domésticas</a></h3>
+                <h1 class="titulo-b">Domésticas</h1>
         </div>
          <article class="seccionC">
 
           <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Ergonomica de Acero</h4>
+              <h4>Ergonómica de Acero</h4>
             </div>
             <div class="thumb">
               <a class="lb" href="img/productos/ergonomica-acero.jpg" title="">
@@ -51,7 +51,7 @@
 
           <div class="wrappPr"> 
             <div class="tituloPr">
-              <h4>Domestica de Acero</h4>
+              <h4>Doméstica de Acero</h4>
             </div>
             <div class="thumb">
               <a class="lb" href="img/productos/domestica-acero.jpg" title="">
@@ -99,28 +99,14 @@
               <h4>Escalera Elegance de 4 Escalones</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" width="300" alt="Escalera Elegance de 4 Escalones" />
+              <a class="lb" href="img/productos/E-elegance-4.jpg" title="">
+                  <img src="img/productos/E-elegance-4.jpg" width="300" alt="Escalera Elegance de 4 Escalones" />
               </a>
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p></p>
-            </div>
-          </div> <!-- FIN NUEVO CONTENEDOR -->
-
-          <div class="wrappPr"> 
-            <div class="tituloPr">
-              <h4>Escalera Elegance de 4 Escalones</h4>
-            </div>
-            <div class="thumb">
-              <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" width="300" alt="Escalera Elegance de 4 Escalones" />
-              </a>
-              <div class="sombraP"></div>
-            </div>
-            <div class="subPr">
-                <p></p>
+                <p>Alto 0.99 (m) Peso 3.0 kg.</p>
+                <p>Capacidad 100 kg</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 
@@ -159,13 +145,14 @@
               <h4>Escalera Elegance Plus 4 Escalones</h4>
             </div>
             <div class="thumb">
-              <a class="lb" href="img/productos/nImg.jpg" title="">
-                  <img src="img/productos/nImg.jpg" width="300" alt="Escalera Elegance Plus 4 Escalones" />
+              <a class="lb" href="img/productos/E-elegance-plus-4.jpg" title="">
+                  <img src="img/productos/E-elegance-plus-4.jpg" width="300" alt="Escalera Elegance Plus 4 Escalones" />
               </a>
               <div class="sombraP"></div>
             </div>
             <div class="subPr">
-                <p></p>
+                <p>Alto 1.40 (m) Peso 3.2 kg.</p>
+                <p>Capacidad 100 kg</p>
             </div>
           </div> <!-- FIN NUEVO CONTENEDOR -->
 

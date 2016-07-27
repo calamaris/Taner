@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head data-gwd-animation-mode="quickMode">
-    <title>Rectas Aluminio</title>
+    <title>Rectas</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <?php include 'includes/csss.html'; ?> 
     <?php include 'includes/head.html'; ?> <!--aqui esta el jquery-->
@@ -14,10 +14,26 @@
       <section class="seccion-b">
         <div class="encabezado"> <!--navegador en productos -->
                 <h3 >
-                  <a class="nav-pl1" href="productos.php">Productos ></a><a class="nav-pl1" href="escaleras.php"> Escaleras ></a><a class="nav-pl1 navActive" href="archiveros.php"> Rectas de Aluminio</a></h3>
-                <h1 class="titulo-b">Rectas de Aluminio</h1>
+                  <a class="nav-pl1" href="productos.php">Productos ></a><a class="nav-pl1" href="escaleras.php"> Escaleras ></a><a class="nav-pl1 navActive" href="escalera-aluminio.php"> Rectas</a></h3>
+                <h1 class="titulo-b">Rectas</h1>
         </div>
          <article class="seccionC">
+
+         <div class="wrappPr"> 
+            <div class="tituloPr">
+              <h4>Escalera Recta de Fibra de Vidrio 8 Escalones</h4>
+            </div>
+            <div class="thumb">
+              <a class="lb" href="img/productos/E-recta-fibra-8.jpg" title="">
+                  <img src="img/productos/E-recta-fibra-8.jpg" width="300" alt="Escalera Recta de Aluminio 8 Escalones" />
+              </a>
+              <div class="sombraP"></div>
+            </div>
+            <div class="subPr">
+                <p>Alto 2.44 (m) Peso 6.7 kg.</p>
+                <p>Capacidad 102 kg.</p>
+            </div>
+          </div> <!-- FIN NUEVO CONTENEDOR -->
 
           <div class="wrappPr"> 
             <div class="tituloPr">
